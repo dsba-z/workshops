@@ -3,4 +3,6 @@ A page with all the workshop materials for the Introduction to Programming cours
 
 Jupyter notebook for the first workshop:
 
+https://colab.research.google.com/drive/1Uw0jMPLqdKRxmdQTt8CRBZzxyDkaTAUM
+
 https://drive.google.com/file/d/1Uw0jMPLqdKRxmdQTt8CRBZzxyDkaTAUM/view?usp=sharing
