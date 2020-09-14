@@ -14,7 +14,7 @@ Contest: https://official.contest.yandex.com/contest/19657/problems/
 ## Workshop 3
 
 Jupyter notebook:  
-View online: https://colab.research.google.com/drive/1EruCEgyQqgKH4X4nJuelDl-rvb8AFCJA#scrollTo=YTUYODNZYanh
+View online: https://colab.research.google.com/drive/1EruCEgyQqgKH4X4nJuelDl-rvb8AFCJA#scrollTo=YTUYODNZYanh  
 Download: https://drive.google.com/file/d/1EruCEgyQqgKH4X4nJuelDl-rvb8AFCJA/view?usp=sharing
 
 
