@@ -14,7 +14,7 @@ Contest: https://official.contest.yandex.com/contest/19657/problems/
 ## Workstop 2
 
 Jupyter notebook:  
-View online: https://colab.research.google.com/drive/1IjwBCi0IrXjtOCbFRn_3U9d2eRHD7Vdh
+View online: https://colab.research.google.com/drive/1IjwBCi0IrXjtOCbFRn_3U9d2eRHD7Vdh  
 Download: https://drive.google.com/file/d/1IjwBCi0IrXjtOCbFRn_3U9d2eRHD7Vdh
 
 ## Workshop 3
