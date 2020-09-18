@@ -24,3 +24,14 @@ View online: https://colab.research.google.com/drive/1EruCEgyQqgKH4X4nJuelDl-rvb
 Download: https://drive.google.com/file/d/1EruCEgyQqgKH4X4nJuelDl-rvb8AFCJA
 
 Contest: https://official.contest.yandex.com/contest/19792/problems/
+
+## Workshop 4
+
+Jupyter notebook:  
+View online: https://colab.research.google.com/drive/1vI-ZSxbMgDwrOABnokvLY793bsqO0o1Q  
+Download: https://drive.google.com/file/d/1vI-ZSxbMgDwrOABnokvLY793bsqO0o1Q  
+
+Test (201-2): https://drive.google.com/file/d/1eGuGPzhk2UdU-5J_p9D04xKz-mPYTFjV
+
+Test (202-2): https://drive.google.com/file/d/1_XKvdEzMmUWQot0wWY8ZgSdvLeNm7rr4
+
