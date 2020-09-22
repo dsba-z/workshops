@@ -31,7 +31,10 @@ Jupyter notebook:
 View online: https://colab.research.google.com/drive/1vI-ZSxbMgDwrOABnokvLY793bsqO0o1Q  
 Download: https://drive.google.com/file/d/1vI-ZSxbMgDwrOABnokvLY793bsqO0o1Q  
 
-Test (201-2): https://drive.google.com/file/d/1eGuGPzhk2UdU-5J_p9D04xKz-mPYTFjV
+## Workshop 5
 
-Test (202-2): https://drive.google.com/file/d/1_XKvdEzMmUWQot0wWY8ZgSdvLeNm7rr4
+Jupyter notebook:  
+View online: https://colab.research.google.com/drive/10tYEFWm_iQjmpun0oEeM_Klj-p4z9geW  
+Download: https://drive.google.com/file/d/10tYEFWm_iQjmpun0oEeM_Klj-p4z9geW
 
+Contest: https://official.contest.yandex.com/contest/19938/problems/
