@@ -9,7 +9,8 @@ Jupyter notebook:
 View online: https://colab.research.google.com/drive/1Uw0jMPLqdKRxmdQTt8CRBZzxyDkaTAUM  
 Download: https://drive.google.com/file/d/1Uw0jMPLqdKRxmdQTt8CRBZzxyDkaTAUM
 
-Contest: https://official.contest.yandex.com/contest/19657/problems/
+### Contest 1  
+https://official.contest.yandex.com/contest/19657/problems/
 
 ## Workstop 2
 
@@ -23,7 +24,8 @@ Jupyter notebook:
 View online: https://colab.research.google.com/drive/1EruCEgyQqgKH4X4nJuelDl-rvb8AFCJA  
 Download: https://drive.google.com/file/d/1EruCEgyQqgKH4X4nJuelDl-rvb8AFCJA
 
-Contest: https://official.contest.yandex.com/contest/19792/problems/
+### Contest 2  
+https://official.contest.yandex.com/contest/19792/problems/
 
 ## Workshop 4
 
@@ -37,4 +39,12 @@ Jupyter notebook:
 View online: https://colab.research.google.com/drive/10tYEFWm_iQjmpun0oEeM_Klj-p4z9geW  
 Download: https://drive.google.com/file/d/10tYEFWm_iQjmpun0oEeM_Klj-p4z9geW
 
-Contest: https://official.contest.yandex.com/contest/19938/problems/
+### Contest 3  
+https://official.contest.yandex.com/contest/19938/problems/
+
+
+## Workshop 6
+
+Jupyter notebook:  
+View online: https://colab.research.google.com/drive/1nUjC1eOb-LRl8F_PA5oKUYlrEdJkEZ69  
+Download: https://drive.google.com/file/d/1nUjC1eOb-LRl8F_PA5oKUYlrEdJkEZ69
