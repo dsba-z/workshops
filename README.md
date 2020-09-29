@@ -3,6 +3,8 @@ A page with all the workshop materials for the Introduction to Programming cours
 
 Relevant materials in Russian (the original course notes): https://drive.google.com/file/d/1UXMfPT05JO-3bnHBvjCOS_z6YPZW-pEs
 
+Platform to share code during class: https://codeshare.io/5NA6K9
+
 ## Workshop 1
 
 Jupyter notebook:  
