@@ -48,3 +48,12 @@ https://official.contest.yandex.com/contest/19938/problems/
 Jupyter notebook:  
 View online: https://colab.research.google.com/drive/1nUjC1eOb-LRl8F_PA5oKUYlrEdJkEZ69  
 Download: https://drive.google.com/file/d/1nUjC1eOb-LRl8F_PA5oKUYlrEdJkEZ69
+
+## Workshop 7
+
+Jupyter notebook:  
+View online: https://colab.research.google.com/drive/1OIqIgPE_wjuJtOcnF22UarzypDlNTx2i  
+Download: https://drive.google.com/file/d/1OIqIgPE_wjuJtOcnF22UarzypDlNTx2i
+
+### Contest 4
+https://official.contest.yandex.com/contest/20240/problems/
