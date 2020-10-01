@@ -59,3 +59,9 @@ Download: https://drive.google.com/file/d/1OIqIgPE_wjuJtOcnF22UarzypDlNTx2i
 
 ### Contest 4
 https://official.contest.yandex.com/contest/20240/problems/
+
+## Workshop 8
+
+Jupyter notebook:  
+View online: https://colab.research.google.com/drive/1SHHWu_QXW1ttCB9PSfYhdpqdR1-o7CuL  
+Download: https://drive.google.com/file/d/1SHHWu_QXW1ttCB9PSfYhdpqdR1-o7CuL/
