@@ -65,3 +65,9 @@ https://official.contest.yandex.com/contest/20240/problems/
 Jupyter notebook:  
 View online: https://colab.research.google.com/drive/1SHHWu_QXW1ttCB9PSfYhdpqdR1-o7CuL  
 Download: https://drive.google.com/file/d/1SHHWu_QXW1ttCB9PSfYhdpqdR1-o7CuL/
+
+## Workshop 9
+
+Jupyter notebook:  
+View online: https://colab.research.google.com/drive/1B3Eo8RWpMD0vhNmHI_MTMkJUBcA6MWMj  
+Download: https://drive.google.com/file/d/1B3Eo8RWpMD0vhNmHI_MTMkJUBcA6MWMj
