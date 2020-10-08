@@ -71,3 +71,12 @@ Download: https://drive.google.com/file/d/1SHHWu_QXW1ttCB9PSfYhdpqdR1-o7CuL/
 Jupyter notebook:  
 View online: https://colab.research.google.com/drive/1B3Eo8RWpMD0vhNmHI_MTMkJUBcA6MWMj  
 Download: https://drive.google.com/file/d/1B3Eo8RWpMD0vhNmHI_MTMkJUBcA6MWMj
+
+## Workshop 10
+
+Jupyter notebook:  
+View online: https://colab.research.google.com/drive/1RraTjoWfFK2BDjNsVRrf_hmzSxGTMznj  
+Download: https://drive.google.com/file/d/1RraTjoWfFK2BDjNsVRrf_hmzSxGTMznj  
+
+### Contest 5
+https://official.contest.yandex.com/contest/20721/problems/
