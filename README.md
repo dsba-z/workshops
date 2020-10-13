@@ -80,3 +80,10 @@ Download: https://drive.google.com/file/d/1RraTjoWfFK2BDjNsVRrf_hmzSxGTMznj
 
 ### Contest 5
 https://official.contest.yandex.com/contest/20721/problems/
+
+## Workshop 11
+
+Jupyter notebook:  
+View online: https://colab.research.google.com/drive/1Dz-u3jhjqZ5SPir24GHs6vCvsNLDvzMR  
+Download: https://drive.google.com/file/d/1Dz-u3jhjqZ5SPir24GHs6vCvsNLDvzMR
+
