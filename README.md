@@ -96,3 +96,10 @@ Download: https://drive.google.com/file/d/1fSE6vVtIfpTzBpFWgAV8JUXFcnDPqwPO
 ### Contest 6
 
 https://official.contest.yandex.com/contest/20933/problems/
+
+## Workshop 13
+
+Jupyter notebook:  
+View online: https://colab.research.google.com/drive/1Ruv372ZMBsAOrlfA9JEttLuRyGn4OpCo  
+Download: https://drive.google.com/file/d/1Ruv372ZMBsAOrlfA9JEttLuRyGn4OpCo
+
