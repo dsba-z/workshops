@@ -5,14 +5,23 @@ Relevant materials in Russian (the original course notes): https://drive.google.
 
 Platform to share code during class: https://codeshare.io/5NA6K9
 
+## Contests
+
+| Contest | Link |
+|---------|------|
+| 1 | https://official.contest.yandex.com/contest/19657/problems/ |
+| 2 | https://official.contest.yandex.com/contest/19792/problems/ |
+| 3 | https://official.contest.yandex.com/contest/19938/problems/ |
+| 4 | https://official.contest.yandex.com/contest/20240/problems/ |
+| 5 | https://official.contest.yandex.com/contest/20721/problems/ |
+| 6 | https://official.contest.yandex.com/contest/20933/problems/ |
+| 7 | https://official.contest.yandex.com/contest/21580/problems/ |
+
 ## Workshop 1
 
 Jupyter notebook:  
 View online: https://colab.research.google.com/drive/1Uw0jMPLqdKRxmdQTt8CRBZzxyDkaTAUM  
 Download: https://drive.google.com/file/d/1Uw0jMPLqdKRxmdQTt8CRBZzxyDkaTAUM
-
-### Contest 1  
-https://official.contest.yandex.com/contest/19657/problems/
 
 ## Workstop 2
 
@@ -26,9 +35,6 @@ Jupyter notebook:
 View online: https://colab.research.google.com/drive/1EruCEgyQqgKH4X4nJuelDl-rvb8AFCJA  
 Download: https://drive.google.com/file/d/1EruCEgyQqgKH4X4nJuelDl-rvb8AFCJA
 
-### Contest 2  
-https://official.contest.yandex.com/contest/19792/problems/
-
 ## Workshop 4
 
 Jupyter notebook:  
@@ -41,10 +47,6 @@ Jupyter notebook:
 View online: https://colab.research.google.com/drive/10tYEFWm_iQjmpun0oEeM_Klj-p4z9geW  
 Download: https://drive.google.com/file/d/10tYEFWm_iQjmpun0oEeM_Klj-p4z9geW
 
-### Contest 3  
-https://official.contest.yandex.com/contest/19938/problems/
-
-
 ## Workshop 6
 
 Jupyter notebook:  
@@ -56,9 +58,6 @@ Download: https://drive.google.com/file/d/1nUjC1eOb-LRl8F_PA5oKUYlrEdJkEZ69
 Jupyter notebook:  
 View online: https://colab.research.google.com/drive/1OIqIgPE_wjuJtOcnF22UarzypDlNTx2i  
 Download: https://drive.google.com/file/d/1OIqIgPE_wjuJtOcnF22UarzypDlNTx2i
-
-### Contest 4
-https://official.contest.yandex.com/contest/20240/problems/
 
 ## Workshop 8
 
@@ -78,9 +77,6 @@ Jupyter notebook:
 View online: https://colab.research.google.com/drive/1RraTjoWfFK2BDjNsVRrf_hmzSxGTMznj  
 Download: https://drive.google.com/file/d/1RraTjoWfFK2BDjNsVRrf_hmzSxGTMznj  
 
-### Contest 5
-https://official.contest.yandex.com/contest/20721/problems/
-
 ## Workshop 11
 
 Jupyter notebook:  
@@ -93,13 +89,14 @@ Jupyter notebook:
 View online: https://colab.research.google.com/drive/1fSE6vVtIfpTzBpFWgAV8JUXFcnDPqwPO  
 Download: https://drive.google.com/file/d/1fSE6vVtIfpTzBpFWgAV8JUXFcnDPqwPO
 
-### Contest 6
-
-https://official.contest.yandex.com/contest/20933/problems/
-
 ## Workshop 13
 
 Jupyter notebook:  
 View online: https://colab.research.google.com/drive/1Ruv372ZMBsAOrlfA9JEttLuRyGn4OpCo  
 Download: https://drive.google.com/file/d/1Ruv372ZMBsAOrlfA9JEttLuRyGn4OpCo
 
+## Workshop 14
+
+Jupyter notebook:  
+View online: https://colab.research.google.com/drive/1clt_JUtBFDtNCZtq1HT_QzYLKKhmpXd8
+Download: https://drive.google.com/file/d/1clt_JUtBFDtNCZtq1HT_QzYLKKhmpXd8
