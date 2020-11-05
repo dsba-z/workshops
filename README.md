@@ -16,91 +16,28 @@ Platform to share code during class: https://codeshare.io/5NA6K9
 | 5 | https://official.contest.yandex.com/contest/20721/problems/ |
 | 6 | https://official.contest.yandex.com/contest/20933/problems/ |
 | 7 | https://official.contest.yandex.com/contest/21580/problems/ |
+| 8 | https://official.contest.yandex.com/contest/21882/problems/ |
 
-## Workshop 1
 
-Jupyter notebook:  
-View online: https://colab.research.google.com/drive/1Uw0jMPLqdKRxmdQTt8CRBZzxyDkaTAUM  
-Download: https://drive.google.com/file/d/1Uw0jMPLqdKRxmdQTt8CRBZzxyDkaTAUM
 
-## Workstop 2
+## Jupyter Notebooks:
 
-Jupyter notebook:  
-View online: https://colab.research.google.com/drive/1IjwBCi0IrXjtOCbFRn_3U9d2eRHD7Vdh  
-Download: https://drive.google.com/file/d/1IjwBCi0IrXjtOCbFRn_3U9d2eRHD7Vdh
+| Number | View online | Download |
+|--------|-------------|----------|
+| 1 | https://colab.research.google.com/drive/1Uw0jMPLqdKRxmdQTt8CRBZzxyDkaTAUM | https://drive.google.com/file/d/1Uw0jMPLqdKRxmdQTt8CRBZzxyDkaTAUM |
+| 2 | https://colab.research.google.com/drive/1IjwBCi0IrXjtOCbFRn_3U9d2eRHD7Vdh | https://drive.google.com/file/d/1IjwBCi0IrXjtOCbFRn_3U9d2eRHD7Vdh |
+| 3 | https://colab.research.google.com/drive/1EruCEgyQqgKH4X4nJuelDl-rvb8AFCJA | https://drive.google.com/file/d/1EruCEgyQqgKH4X4nJuelDl-rvb8AFCJA |
+| 4 | https://colab.research.google.com/drive/1vI-ZSxbMgDwrOABnokvLY793bsqO0o1Q | https://drive.google.com/file/d/1vI-ZSxbMgDwrOABnokvLY793bsqO0o1Q |
+| 5 | https://colab.research.google.com/drive/10tYEFWm_iQjmpun0oEeM_Klj-p4z9geW | https://drive.google.com/file/d/10tYEFWm_iQjmpun0oEeM_Klj-p4z9geW |
+| 6 | https://colab.research.google.com/drive/1nUjC1eOb-LRl8F_PA5oKUYlrEdJkEZ69 | https://drive.google.com/file/d/1nUjC1eOb-LRl8F_PA5oKUYlrEdJkEZ69 |
+| 7 | https://colab.research.google.com/drive/1OIqIgPE_wjuJtOcnF22UarzypDlNTx2i | https://drive.google.com/file/d/1OIqIgPE_wjuJtOcnF22UarzypDlNTx2i |
+| 8 | https://colab.research.google.com/drive/1SHHWu_QXW1ttCB9PSfYhdpqdR1-o7CuL | https://drive.google.com/file/d/1SHHWu_QXW1ttCB9PSfYhdpqdR1-o7CuL |
+| 9 | https://colab.research.google.com/drive/1B3Eo8RWpMD0vhNmHI_MTMkJUBcA6MWMj | https://drive.google.com/file/d/1B3Eo8RWpMD0vhNmHI_MTMkJUBcA6MWMj |
+|10 | https://colab.research.google.com/drive/1RraTjoWfFK2BDjNsVRrf_hmzSxGTMznj | https://drive.google.com/file/d/1RraTjoWfFK2BDjNsVRrf_hmzSxGTMznj |
+|11 | https://colab.research.google.com/drive/1Dz-u3jhjqZ5SPir24GHs6vCvsNLDvzMR | https://drive.google.com/file/d/1Dz-u3jhjqZ5SPir24GHs6vCvsNLDvzMR |
+|12 | https://colab.research.google.com/drive/1fSE6vVtIfpTzBpFWgAV8JUXFcnDPqwPO | https://drive.google.com/file/d/1fSE6vVtIfpTzBpFWgAV8JUXFcnDPqwPO |
+|13 | https://colab.research.google.com/drive/1Ruv372ZMBsAOrlfA9JEttLuRyGn4OpCo | https://drive.google.com/file/d/1Ruv372ZMBsAOrlfA9JEttLuRyGn4OpCo |
+|14 | https://colab.research.google.com/drive/1clt_JUtBFDtNCZtq1HT_QzYLKKhmpXd8 | https://drive.google.com/file/d/1clt_JUtBFDtNCZtq1HT_QzYLKKhmpXd8 |
+|15 | https://colab.research.google.com/drive/1LcVbXYiW-FIYL-jzbl8wvxZ7oxeH10u_ | https://drive.google.com/file/d/1LcVbXYiW-FIYL-jzbl8wvxZ7oxeH10u_ |
+|16 | https://colab.research.google.com/drive/12C1ezbeSnpmhyCrGAxm9srG0Gv-JNvV3 | https://drive.google.com/file/d/12C1ezbeSnpmhyCrGAxm9srG0Gv-JNvV3 |
 
-## Workshop 3
-
-Jupyter notebook:  
-View online: https://colab.research.google.com/drive/1EruCEgyQqgKH4X4nJuelDl-rvb8AFCJA  
-Download: https://drive.google.com/file/d/1EruCEgyQqgKH4X4nJuelDl-rvb8AFCJA
-
-## Workshop 4
-
-Jupyter notebook:  
-View online: https://colab.research.google.com/drive/1vI-ZSxbMgDwrOABnokvLY793bsqO0o1Q  
-Download: https://drive.google.com/file/d/1vI-ZSxbMgDwrOABnokvLY793bsqO0o1Q  
-
-## Workshop 5
-
-Jupyter notebook:  
-View online: https://colab.research.google.com/drive/10tYEFWm_iQjmpun0oEeM_Klj-p4z9geW  
-Download: https://drive.google.com/file/d/10tYEFWm_iQjmpun0oEeM_Klj-p4z9geW
-
-## Workshop 6
-
-Jupyter notebook:  
-View online: https://colab.research.google.com/drive/1nUjC1eOb-LRl8F_PA5oKUYlrEdJkEZ69  
-Download: https://drive.google.com/file/d/1nUjC1eOb-LRl8F_PA5oKUYlrEdJkEZ69
-
-## Workshop 7
-
-Jupyter notebook:  
-View online: https://colab.research.google.com/drive/1OIqIgPE_wjuJtOcnF22UarzypDlNTx2i  
-Download: https://drive.google.com/file/d/1OIqIgPE_wjuJtOcnF22UarzypDlNTx2i
-
-## Workshop 8
-
-Jupyter notebook:  
-View online: https://colab.research.google.com/drive/1SHHWu_QXW1ttCB9PSfYhdpqdR1-o7CuL  
-Download: https://drive.google.com/file/d/1SHHWu_QXW1ttCB9PSfYhdpqdR1-o7CuL/
-
-## Workshop 9
-
-Jupyter notebook:  
-View online: https://colab.research.google.com/drive/1B3Eo8RWpMD0vhNmHI_MTMkJUBcA6MWMj  
-Download: https://drive.google.com/file/d/1B3Eo8RWpMD0vhNmHI_MTMkJUBcA6MWMj
-
-## Workshop 10
-
-Jupyter notebook:  
-View online: https://colab.research.google.com/drive/1RraTjoWfFK2BDjNsVRrf_hmzSxGTMznj  
-Download: https://drive.google.com/file/d/1RraTjoWfFK2BDjNsVRrf_hmzSxGTMznj  
-
-## Workshop 11
-
-Jupyter notebook:  
-View online: https://colab.research.google.com/drive/1Dz-u3jhjqZ5SPir24GHs6vCvsNLDvzMR  
-Download: https://drive.google.com/file/d/1Dz-u3jhjqZ5SPir24GHs6vCvsNLDvzMR
-
-## Workshop 12
-
-Jupyter notebook:  
-View online: https://colab.research.google.com/drive/1fSE6vVtIfpTzBpFWgAV8JUXFcnDPqwPO  
-Download: https://drive.google.com/file/d/1fSE6vVtIfpTzBpFWgAV8JUXFcnDPqwPO
-
-## Workshop 13
-
-Jupyter notebook:  
-View online: https://colab.research.google.com/drive/1Ruv372ZMBsAOrlfA9JEttLuRyGn4OpCo  
-Download: https://drive.google.com/file/d/1Ruv372ZMBsAOrlfA9JEttLuRyGn4OpCo
-
-## Workshop 14
-
-Jupyter notebook:  
-View online: https://colab.research.google.com/drive/1clt_JUtBFDtNCZtq1HT_QzYLKKhmpXd8  
-Download: https://drive.google.com/file/d/1clt_JUtBFDtNCZtq1HT_QzYLKKhmpXd8  
-
-# Workshop 15
-
-https://colab.research.google.com/drive/1LcVbXYiW-FIYL-jzbl8wvxZ7oxeH10u_?usp=sharing
