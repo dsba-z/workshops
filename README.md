@@ -38,6 +38,6 @@ Platform to share code during class: https://codeshare.io/5NA6K9
 |12 | https://colab.research.google.com/drive/1fSE6vVtIfpTzBpFWgAV8JUXFcnDPqwPO | https://drive.google.com/file/d/1fSE6vVtIfpTzBpFWgAV8JUXFcnDPqwPO |
 |13 | https://colab.research.google.com/drive/1Ruv372ZMBsAOrlfA9JEttLuRyGn4OpCo | https://drive.google.com/file/d/1Ruv372ZMBsAOrlfA9JEttLuRyGn4OpCo |
 |14 | https://colab.research.google.com/drive/1clt_JUtBFDtNCZtq1HT_QzYLKKhmpXd8 | https://drive.google.com/file/d/1clt_JUtBFDtNCZtq1HT_QzYLKKhmpXd8 |
-|15 | https://colab.research.google.com/drive/1LcVbXYiW-FIYL-jzbl8wvxZ7oxeH10u_ | https://drive.google.com/file/d/1LcVbXYiW-FIYL-jzbl8wvxZ7oxeH10u_ |
+|15 | [link](https://colab.research.google.com/drive/1LcVbXYiW-FIYL-jzbl8wvxZ7oxeH10u_) | https://drive.google.com/file/d/1LcVbXYiW-FIYL-jzbl8wvxZ7oxeH10u_ |
 |16 | https://colab.research.google.com/drive/12C1ezbeSnpmhyCrGAxm9srG0Gv-JNvV3 | https://drive.google.com/file/d/12C1ezbeSnpmhyCrGAxm9srG0Gv-JNvV3 |
-
+|17 | https://colab.research.google.com/drive/1Fp9EjcP2-RSTMMiDzgxLjQYcPZ2eDq0h | https://drive.google.com/file/d/1Fp9EjcP2-RSTMMiDzgxLjQYcPZ2eDq0h |
