@@ -17,6 +17,7 @@ Platform to share code during class: https://codeshare.io/5NA6K9
 | 6 | https://official.contest.yandex.com/contest/20933/problems/ |
 | 7 | https://official.contest.yandex.com/contest/21580/problems/ |
 | 8 | https://official.contest.yandex.com/contest/21882/problems/ |
+| 9 | https://official.contest.yandex.com/contest/22329/problems/ |
 
 
 
