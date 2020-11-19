@@ -44,3 +44,4 @@ Platform to share code during class: https://codeshare.io/5NA6K9
 |17 | https://colab.research.google.com/drive/1Fp9EjcP2-RSTMMiDzgxLjQYcPZ2eDq0h | https://drive.google.com/file/d/1Fp9EjcP2-RSTMMiDzgxLjQYcPZ2eDq0h |
 |18 | https://colab.research.google.com/drive/1bYgetswMzRIS-GJglBVlAGkE54pDOjQL | https://drive.google.com/file/d/1bYgetswMzRIS-GJglBVlAGkE54pDOjQL |
 |19 | https://colab.research.google.com/drive/1yTYa6wct2aic5E1WYBGT-jlACnRD6MX6 | https://drive.google.com/file/d/1yTYa6wct2aic5E1WYBGT-jlACnRD6MX6 |
+|20 | https://colab.research.google.com/drive/18vzdRj4_R-3LtAi8qdxwhTM27QRR8xAU | https://drive.google.com/file/d/18vzdRj4_R-3LtAi8qdxwhTM27QRR8xAU |
