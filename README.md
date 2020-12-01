@@ -47,3 +47,4 @@ Platform to share code during class: https://codeshare.io/5NA6K9
 |20 | https://colab.research.google.com/drive/18vzdRj4_R-3LtAi8qdxwhTM27QRR8xAU | https://drive.google.com/file/d/18vzdRj4_R-3LtAi8qdxwhTM27QRR8xAU |
 |21 | https://colab.research.google.com/drive/1po8qx32mGX3NoIqPCWQyP5BkGyASzCnI | https://drive.google.com/file/d/1po8qx32mGX3NoIqPCWQyP5BkGyASzCnI |
 |22 | https://colab.research.google.com/drive/1d8AowxlPf9lCIME3zs2l6f-n5bguOTo0 | https://drive.google.com/file/d/1d8AowxlPf9lCIME3zs2l6f-n5bguOTo0 |
+|23 | [Lecture notes, titanic](https://colab.research.google.com/drive/1fh-fLb9vPOmATJniE1XPjElxWWLlWCTW/view?usp=sharing), [Workshop 23](https://colab.research.google.com/drive/1Lcwl0hU2KjyTxKWhTJ6uHS3obmq-5cqJ?usp=sharing) | [Lecture](https://drive.google.com/file/d/1fh-fLb9vPOmATJniE1XPjElxWWLlWCTW), [Workshop](https://drive.google.com/file/d/1Lcwl0hU2KjyTxKWhTJ6uHS3obmq-5cqJ)|
