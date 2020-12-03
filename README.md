@@ -48,3 +48,4 @@ Platform to share code during class: https://codeshare.io/5NA6K9
 |21 | https://colab.research.google.com/drive/1po8qx32mGX3NoIqPCWQyP5BkGyASzCnI | https://drive.google.com/file/d/1po8qx32mGX3NoIqPCWQyP5BkGyASzCnI |
 |22 | https://colab.research.google.com/drive/1d8AowxlPf9lCIME3zs2l6f-n5bguOTo0 | https://drive.google.com/file/d/1d8AowxlPf9lCIME3zs2l6f-n5bguOTo0 |
 |23 | [Lecture notes, titanic](https://colab.research.google.com/drive/1fh-fLb9vPOmATJniE1XPjElxWWLlWCTW), [Workshop 23](https://colab.research.google.com/drive/1Lcwl0hU2KjyTxKWhTJ6uHS3obmq-5cqJ?usp=sharing) | [Lecture](https://drive.google.com/file/d/1fh-fLb9vPOmATJniE1XPjElxWWLlWCTW), [Workshop](https://drive.google.com/file/d/1Lcwl0hU2KjyTxKWhTJ6uHS3obmq-5cqJ)|
+|24 | https://colab.research.google.com/drive/1W1I3rfz7sR7Izq0ByJuFwS9RkIk2r1n3 | https://drive.google.com/file/d/1W1I3rfz7sR7Izq0ByJuFwS9RkIk2r1n3 |
