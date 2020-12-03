@@ -5,6 +5,20 @@ Relevant materials in Russian (the original course notes): https://drive.google.
 
 Platform to share code during class: https://codeshare.io/5NA6K9
 
+## Project 
+Description (not final):
+
+Deadline: December 14th, 23:59
+
+Submission format: Jupyter Notebook, send a link to the file to the Google form. Link to the form will be added later.
+
+Project description:
+Find a dataset with text data and analyze it the following way.
+1. Output descriptive statistics of the dataset: mean, median, standard deviation. Do this for at least 3 numerical fields.
+2. Plot at least 3 numerical fields. Choose the plot type based on the data. It may make more sense to do a scatterplot, a regular plot, a histogram or something else.
+3. Do at least 2 comparisons similar to the ones in the Titanic example. "What are the distributions of the column A for different values of the column B?" Output as either numbers or plots.
+4. Describe your results in 2-3 paragraphs of text. What you can see from the plot, from the statistics and comparisons.
+
 ## Contests
 
 | Contest | Link |
