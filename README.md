@@ -72,3 +72,5 @@ https://www.kaggle.com
 |23 | [Lecture notes, titanic](https://colab.research.google.com/drive/1fh-fLb9vPOmATJniE1XPjElxWWLlWCTW), [Workshop 23](https://colab.research.google.com/drive/1Lcwl0hU2KjyTxKWhTJ6uHS3obmq-5cqJ?usp=sharing) | [Lecture](https://drive.google.com/file/d/1fh-fLb9vPOmATJniE1XPjElxWWLlWCTW), [Workshop](https://drive.google.com/file/d/1Lcwl0hU2KjyTxKWhTJ6uHS3obmq-5cqJ)|
 |24 | https://colab.research.google.com/drive/1W1I3rfz7sR7Izq0ByJuFwS9RkIk2r1n3 | https://drive.google.com/file/d/1W1I3rfz7sR7Izq0ByJuFwS9RkIk2r1n3 |
 |26 | https://colab.research.google.com/drive/1ig0DEGeGgYbsACzuYJA4M16Uk8dF_sDM | https://drive.google.com/file/d/1ig0DEGeGgYbsACzuYJA4M16Uk8dF_sDM |
+|27 part 1| https://colab.research.google.com/drive/1Wb4FHGThMUlxgfEPxITgNnZLPPjNWQEe | https://drive.google.com/file/d/1Wb4FHGThMUlxgfEPxITgNnZLPPjNWQEe |
+|27 part 2| https://colab.research.google.com/drive/1XXrhCCbPxvcmSOY-wUYJpxpjlksNI1da | https://drive.google.com/file/d/1XXrhCCbPxvcmSOY-wUYJpxpjlksNI1da |
