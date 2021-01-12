@@ -1,9 +1,18 @@
 # Materials
 A page with all the workshop materials for the Introduction to Programming course for groups 201-2 and 202-2.
 
-Relevant materials in Russian (the original course notes): https://drive.google.com/file/d/1UXMfPT05JO-3bnHBvjCOS_z6YPZW-pEs
+# C++
 
-Platform to share code during class: https://codeshare.io/5NA6K9
+## Workshop 1
+
+Instructions: https://drive.google.com/file/d/1cq6HSOY7oaXbtmd4259JV8XdPFSj2B2Q  
+Code: https://drive.google.com/file/d/1L9Ly3FYcgA_EnOdwREGU1RaJPsk-cnB0  
+
+-----
+
+# Python
+
+Relevant materials in Russian (the original course notes): https://drive.google.com/file/d/1UXMfPT05JO-3bnHBvjCOS_z6YPZW-pEs
 
 ## Project 
 Description:
