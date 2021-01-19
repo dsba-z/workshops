@@ -8,6 +8,11 @@ A page with all the workshop materials for the Introduction to Programming cours
 Instructions: https://drive.google.com/file/d/1cq6HSOY7oaXbtmd4259JV8XdPFSj2B2Q  
 Code: https://drive.google.com/file/d/1L9Ly3FYcgA_EnOdwREGU1RaJPsk-cnB0  
 
+## Workshops 3 and 4
+
+Instructions: https://drive.google.com/file/d/1Rwr7LugEeVs7OoNNg5RLMS6Toz2mi9B8   
+Repository: https://github.com/pumpkin-code/dsba-prog-2021spring-wshps03-04
+
 -----
 
 # Python
