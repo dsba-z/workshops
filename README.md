@@ -18,9 +18,9 @@ Coursera course in Python by HSE: https://www.coursera.org/learn/python-osnovy-p
 
 ## Jupyter Notebooks:
 
-Google Drive directory with **all** workshops.
+Google Drive directory with **all** workshops. - [Shared directory](https://drive.google.com/drive/folders/14gqJC8A_dM13ZT7EijI_4pbWMJYhqR1T)
 
-https://drive.google.com/drive/folders/14gqJC8A_dM13ZT7EijI_4pbWMJYhqR1T
+To be able to run code in Google Colab, create your own copy of the notebook.
 
 | Number | Topic | View online | Download |
 |--------|-------|-------------|----------|
