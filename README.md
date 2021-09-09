@@ -13,7 +13,7 @@ Coursera course in Python by HSE: https://www.coursera.org/learn/python-osnovy-p
 
 | Contest | Link |
 |---------|------|
-|  | |
+| 1 | https://official.contest.yandex.com/contest/29080/ |
 
 
 ## Jupyter Notebooks:
