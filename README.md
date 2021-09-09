@@ -16,6 +16,10 @@ Relevant materials in Russian (notes for the original course): https://drive.goo
 
 ## Jupyter Notebooks:
 
+Google Drive directory with **all** workshops.
+
+https://drive.google.com/file/d/163k2AVJAOXi5vzuqhLTUbUtXBORDWjJ0
+
 | Number | Topic | View online | Download |
 |--------|-------|-------------|----------|
 | 1 | Introduction | https://colab.research.google.com/drive/163k2AVJAOXi5vzuqhLTUbUtXBORDWjJ0 | https://drive.google.com/file/d/163k2AVJAOXi5vzuqhLTUbUtXBORDWjJ0 |
