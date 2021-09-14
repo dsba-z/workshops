@@ -5,6 +5,11 @@ A page with all the workshop materials for the Introduction to Programming cours
 
 # Python
 
+Online lectures for the course:
+
+[Programming for everybody](https://www.coursera.org/learn/python?specialization=python) (PFE)
+[Pythond Data Structures](https://www.coursera.org/learn/python-data) (PDS)
+
 Relevant materials in Russian (notes for the original course): https://drive.google.com/file/d/1UXMfPT05JO-3bnHBvjCOS_z6YPZW-pEs
 
 Coursera course in Python by HSE: https://www.coursera.org/learn/python-osnovy-programmirovaniya
