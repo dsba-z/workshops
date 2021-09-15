@@ -9,6 +9,17 @@ Online lectures for the course:
 [Programming for everybody](https://www.coursera.org/learn/python?specialization=python) (PFE)
 [Python Data Structures](https://www.coursera.org/learn/python-data) (PDS)
 
+## Lecture schedule
+| Week | Topics |
+|---------|------|
+| 1 | PFE. Week 1&3. Chapter One - Why do we Program? Week 2. Installing and Using Python |
+| 2 | PFE. Week 4.Chapter Two: Variables and Expressions. Week 5.Chapter Three: Conditional Code |
+| 3 | PDS. Week1. Chapter Six: Strings. |
+
+
+ONLINE Course Video. PFE. Week 4.Chapter Two: Variables and Expressions. Week 5.Chapter Three: Conditional Code
+
+
 Relevant materials in Russian (notes for the original course): https://drive.google.com/file/d/1UXMfPT05JO-3bnHBvjCOS_z6YPZW-pEs
 
 Coursera course in Python by HSE: https://www.coursera.org/learn/python-osnovy-programmirovaniya
