@@ -1,9 +1,8 @@
-# Materials
 A page with all the workshop materials for the Introduction to Programming course for groups 212-2, 213-1 and 213-2.
 
 -----
 
-# Python
+# Materials
 
 Online lectures for the course:
 
@@ -14,14 +13,18 @@ Relevant materials in Russian (notes for the original course): https://drive.goo
 
 Coursera course in Python by HSE: https://www.coursera.org/learn/python-osnovy-programmirovaniya
 
-## Contests
+
+
+# Contests
 
 | Contest | Link |
 |---------|------|
 | 1 | https://official.contest.yandex.com/contest/29080/ |
 
 
-## Jupyter Notebooks:
+# Workshops
+
+[Submit your code from workshops here](https://forms.gle/B5ogs6HxypxFWYvz8)
 
 Google Drive directory with **all** workshops. - [Shared directory](https://drive.google.com/drive/folders/14gqJC8A_dM13ZT7EijI_4pbWMJYhqR1T)
 
