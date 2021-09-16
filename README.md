@@ -16,10 +16,14 @@ Online lectures for the course:
 | 2 | PFE. Week 4.Chapter Two: Variables and Expressions. Week 5.Chapter Three: Conditional Code |
 | 3 | PDS. Week1. Chapter Six: Strings. |
 
+## Additional
+
+
 Relevant materials in Russian (notes for the original course): https://drive.google.com/file/d/1UXMfPT05JO-3bnHBvjCOS_z6YPZW-pEs
 
 Coursera course in Python by HSE: https://www.coursera.org/learn/python-osnovy-programmirovaniya
 
+Another useful book: https://greenteapress.com/wp/think-python-2e/
 
 
 # Contests
