@@ -46,4 +46,4 @@ To be able to run code in Google Colab, create your own copy of the notebook.
 | 1 | Introduction | [Colab](https://colab.research.google.com/drive/163k2AVJAOXi5vzuqhLTUbUtXBORDWjJ0) | [Jupyter](https://drive.google.com/file/d/163k2AVJAOXi5vzuqhLTUbUtXBORDWjJ0) |
 | 2 | Numbering Systems | [Colab](https://colab.research.google.com/drive/1SZqOa3szmbJtrGOvqOhOzqIWyN8lvjnO) | [Jupyter](https://drive.google.com/file/d/1SZqOa3szmbJtrGOvqOhOzqIWyN8lvjnO)
 | 3 | `if`, `for` | [Colab](https://colab.research.google.com/drive/12dkRJ7DyOxn4u5rgfsD7ulA4VsZGk4_Y) | [Jupyter](https://drive.google.com/file/d/12dkRJ7DyOxn4u5rgfsD7ulA4VsZGk4_Y)
-
+| 4 | Real numbers and strings | [Colab](https://colab.research.google.com/drive/1Q1UAICsnU4nOtUqCC1GmK82Y18p6jdpo) | [Jupyter](https://drive.google.com/file/d/1Q1UAICsnU4nOtUqCC1GmK82Y18p6jdpo)
