@@ -35,9 +35,11 @@ Another useful book: https://greenteapress.com/wp/think-python-2e/
 
 # Workshops
 
-[Submit your code from workshops here](https://forms.gle/B5ogs6HxypxFWYvz8)
+[**Submit your code from workshops here**](https://forms.gle/B5ogs6HxypxFWYvz8)
 
 Google Drive directory with **all** workshops. - [Shared directory](https://drive.google.com/drive/folders/14gqJC8A_dM13ZT7EijI_4pbWMJYhqR1T)
+
+Notebooks after the workshops are available in the **shared directory**.
 
 To be able to run code in Google Colab, create your own copy of the notebook.
 
