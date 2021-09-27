@@ -14,7 +14,11 @@ Online lectures for the course:
 |---------|------|
 | 1 | PFE. Week 1&3. Chapter One - Why do we Program? Week 2. Installing and Using Python |
 | 2 | PFE. Week 4.Chapter Two: Variables and Expressions. Week 5.Chapter Three: Conditional Code |
-| 3 | PDS. Week1. Chapter Six: Strings. |
+| 3 | PDS. Week 1. Chapter Six: Strings. |
+| 4 | PDS. Week 4. Chapter Eight: Lists. Week 6. Chapter Ten: Tuples |
+| 5 | PFE. Week 6. Chapter Four: Functions |
+| 6 | PDS. Week 5. Chapter Nine: Dictionaries. Week3. Chapter Seven: Files |
+
 
 ## Additional
 
