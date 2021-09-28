@@ -56,4 +56,5 @@ To be able to run code in Google Colab, create your own copy of the notebook.
 | 4 | Real numbers and strings | [Colab](https://colab.research.google.com/drive/1Q1UAICsnU4nOtUqCC1GmK82Y18p6jdpo) | [Jupyter](https://drive.google.com/file/d/1Q1UAICsnU4nOtUqCC1GmK82Y18p6jdpo)
 | 5 | Strings | [Colab](https://colab.research.google.com/drive/17oz8WLoVY-XaSiyZe48i8q55zDNOOoGu) | [Jupyter](https://drive.google.com/file/d/17oz8WLoVY-XaSiyZe48i8q55zDNOOoGu/view?usp=sharing)
 | 6 | Code style. Strings | [Colab part 1 (code style)](https://colab.research.google.com/drive/1SQE9WIlXFXLAt9HwstpYbLiZSo17zOGf) <br />  [Colab part 2](https://colab.research.google.com/drive/1KDJ0y0f4m2GjVUnURXBYCVplgXqYHH3c) | [Jupyter part 1](https://drive.google.com/file/d/1SQE9WIlXFXLAt9HwstpYbLiZSo17zOGf/view?usp=sharing)<br />  [Jupyter part 2](https://drive.google.com/file/d/1KDJ0y0f4m2GjVUnURXBYCVplgXqYHH3c/view?usp=sharing)
+| 7 | Lists | [Colab](https://colab.research.google.com/drive/1Hrt-fJlQllybqis75yz7Z8J98SCbyROD) | [Jupyter](https://drive.google.com/file/d/1Hrt-fJlQllybqis75yz7Z8J98SCbyROD/view?usp=sharing)
 
