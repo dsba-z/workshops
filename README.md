@@ -36,8 +36,7 @@ Another useful book: https://greenteapress.com/wp/think-python-2e/
 |---------|------|
 | 1 | https://official.contest.yandex.com/contest/29080/ |
 | 2 | https://official.contest.yandex.com/contest/29468/ |
-
-
+| 3 | https://official.contest.yandex.com/contest/29676/ |
 
 # Workshops
 
