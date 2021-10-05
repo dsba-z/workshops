@@ -37,6 +37,7 @@ Another useful book: https://greenteapress.com/wp/think-python-2e/
 | 1 | https://official.contest.yandex.com/contest/29080/ |
 | 2 | https://official.contest.yandex.com/contest/29468/ |
 | 3 | https://official.contest.yandex.com/contest/29676/ |
+| 4 | https://official.contest.yandex.com/contest/29885/ |
 
 # Workshops
 
@@ -58,4 +59,5 @@ To be able to run code in Google Colab, create your own copy of the notebook.
 | 6 | Code style. Strings | [Colab part 1 (code style)](https://colab.research.google.com/drive/1SQE9WIlXFXLAt9HwstpYbLiZSo17zOGf) <br />  [Colab part 2](https://colab.research.google.com/drive/1KDJ0y0f4m2GjVUnURXBYCVplgXqYHH3c) | [Jupyter part 1](https://drive.google.com/file/d/1SQE9WIlXFXLAt9HwstpYbLiZSo17zOGf/view?usp=sharing)<br />  [Jupyter part 2](https://drive.google.com/file/d/1KDJ0y0f4m2GjVUnURXBYCVplgXqYHH3c/view?usp=sharing)
 | 7 | Lists | [Colab](https://colab.research.google.com/drive/1Hrt-fJlQllybqis75yz7Z8J98SCbyROD) | [Jupyter](https://drive.google.com/file/d/1Hrt-fJlQllybqis75yz7Z8J98SCbyROD/view?usp=sharing)
 | 8 | Lists. Tasks | [Colab](https://colab.research.google.com/drive/1zGlaGLWZQ8GxjVLOI2arFbM69poj8DaY) | [Jupyter](https://drive.google.com/file/d/1zGlaGLWZQ8GxjVLOI2arFbM69poj8DaY/view?usp=sharing)
+| 9 | Function | [Colab](https://colab.research.google.com/drive/1az-sgSitygmDGMChX2EuhuQRF7sZ8P1T) | [Jupyter](https://drive.google.com/file/d/1az-sgSitygmDGMChX2EuhuQRF7sZ8P1T/view?usp=sharing)
 
