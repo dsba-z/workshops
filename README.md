@@ -17,7 +17,7 @@ Online lectures for the course:
 | 3 | PDS. Week 1. Chapter Six: Strings. |
 | 4 | PDS. Week 4. Chapter Eight: Lists. Week 6. Chapter Ten: Tuples |
 | 5 | PFE. Week 6. Chapter Four: Functions |
-| 6 | PDS. Week 5. Chapter Nine: Dictionaries. Week3. Chapter Seven: Files |
+| 6 | PDS. Week 5. Chapter Nine: Dictionaries. Week 3. Chapter Seven: Files |
 
 
 ## Additional
@@ -38,6 +38,7 @@ Another useful book: https://greenteapress.com/wp/think-python-2e/
 | 2 | https://official.contest.yandex.com/contest/29468/ |
 | 3 | https://official.contest.yandex.com/contest/29676/ |
 | 4 | https://official.contest.yandex.com/contest/29885/ |
+| 5 | https://official.contest.yandex.com/contest/30083/ |
 
 # Workshops
 
@@ -61,4 +62,4 @@ To be able to run code in Google Colab, create your own copy of the notebook.
 | 8 | Lists. Tasks | [Colab](https://colab.research.google.com/drive/1zGlaGLWZQ8GxjVLOI2arFbM69poj8DaY) | [Jupyter](https://drive.google.com/file/d/1zGlaGLWZQ8GxjVLOI2arFbM69poj8DaY/view?usp=sharing)
 | 9 | Functions | [Colab](https://colab.research.google.com/drive/1az-sgSitygmDGMChX2EuhuQRF7sZ8P1T) | [Jupyter](https://drive.google.com/file/d/1az-sgSitygmDGMChX2EuhuQRF7sZ8P1T/view?usp=sharing)
 |10 | Tasks on Functions | [Colab](https://colab.research.google.com/drive/1hCh7NFgIFaQor4HnglfF-Dcgz285JEFy) | [Jupyter](https://drive.google.com/file/d/1hCh7NFgIFaQor4HnglfF-Dcgz285JEFy/view?usp=sharing)
-
+|11 | Sets | [Colab](https://colab.research.google.com/drive/15g-eKzRayWOIt3ZgPjhfcB0Moefy_Uhk) | [Jupyter](https://drive.google.com/file/d/15g-eKzRayWOIt3ZgPjhfcB0Moefy_Uhk/view?usp=sharing)
