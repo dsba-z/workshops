@@ -64,3 +64,4 @@ To be able to run code in Google Colab, create your own copy of the notebook.
 |10 | Tasks on Functions | [Colab](https://colab.research.google.com/drive/1hCh7NFgIFaQor4HnglfF-Dcgz285JEFy) | [Jupyter](https://drive.google.com/file/d/1hCh7NFgIFaQor4HnglfF-Dcgz285JEFy/view?usp=sharing)
 |11 | Sets and Dictionaries | [Colab](https://colab.research.google.com/drive/15g-eKzRayWOIt3ZgPjhfcB0Moefy_Uhk) | [Jupyter](https://drive.google.com/file/d/15g-eKzRayWOIt3ZgPjhfcB0Moefy_Uhk/view?usp=sharing)
 |12 | Tasks on Dictionaries | [Colab](https://colab.research.google.com/drive/14Y4PqEVEDqhcWibSCFmE1XuGqo3VUxh5) | [Jupyter](https://drive.google.com/file/d/14Y4PqEVEDqhcWibSCFmE1XuGqo3VUxh5/view?usp=sharing)
+|13 | Sorting and Searching | [Colab](https://colab.research.google.com/drive/14rZvEish6O0uY5NLfm1Z8wlJpaYXvZfS) | [Jupyter](https://drive.google.com/file/d/14rZvEish6O0uY5NLfm1Z8wlJpaYXvZfS/view?usp=sharing)
