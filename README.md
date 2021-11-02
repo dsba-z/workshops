@@ -18,6 +18,8 @@ Online lectures for the course:
 | 4 | PDS. Week 4. Chapter Eight: Lists. Week 6. Chapter Ten: Tuples |
 | 5 | PFE. Week 6. Chapter Four: Functions |
 | 6 | PDS. Week 5. Chapter Nine: Dictionaries. Week 3. Chapter Seven: Files |
+| 7 | Nothing |
+| 8 | 
 
 
 ## Additional
@@ -66,3 +68,4 @@ To be able to run code in Google Colab, create your own copy of the notebook.
 |11 | Sets and Dictionaries | [Colab](https://colab.research.google.com/drive/15g-eKzRayWOIt3ZgPjhfcB0Moefy_Uhk) | [Jupyter](https://drive.google.com/file/d/15g-eKzRayWOIt3ZgPjhfcB0Moefy_Uhk/view?usp=sharing)
 |12 | Tasks on Dictionaries | [Colab](https://colab.research.google.com/drive/14Y4PqEVEDqhcWibSCFmE1XuGqo3VUxh5) | [Jupyter](https://drive.google.com/file/d/14Y4PqEVEDqhcWibSCFmE1XuGqo3VUxh5/view?usp=sharing)
 |13 | Sorting and Searching | [Colab](https://colab.research.google.com/drive/14rZvEish6O0uY5NLfm1Z8wlJpaYXvZfS) | [Jupyter](https://drive.google.com/file/d/14rZvEish6O0uY5NLfm1Z8wlJpaYXvZfS/view?usp=sharing)
+|14 | Iterators and Generators | [Colab](https://colab.research.google.com/drive/1EnkVxx2QJ6UBK6uEgV35rTO7TK_JSh6G) | [Jupyter](https://drive.google.com/file/d/1EnkVxx2QJ6UBK6uEgV35rTO7TK_JSh6G/view?usp=sharing)
