@@ -19,7 +19,7 @@ Online lectures for the course:
 | 5 | PFE. Week 6. Chapter Four: Functions |
 | 6 | PDS. Week 5. Chapter Nine: Dictionaries. Week 3. Chapter Seven: Files |
 | 7 | Nothing |
-| 8 | 
+| 8 | PFE. Week 7. Chapter Five: Loops and Iteration. |
 
 
 ## Additional
