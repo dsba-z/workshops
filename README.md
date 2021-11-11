@@ -70,3 +70,4 @@ To be able to run code in Google Colab, create your own copy of the notebook.
 |13, 14 | Sorting and Searching | [Colab](https://colab.research.google.com/drive/14rZvEish6O0uY5NLfm1Z8wlJpaYXvZfS) | [Jupyter](https://drive.google.com/file/d/14rZvEish6O0uY5NLfm1Z8wlJpaYXvZfS/view?usp=sharing)
 |15 | Iterators and Generators | [Colab](https://colab.research.google.com/drive/1EnkVxx2QJ6UBK6uEgV35rTO7TK_JSh6G) | [Jupyter](https://drive.google.com/file/d/1EnkVxx2QJ6UBK6uEgV35rTO7TK_JSh6G/view?usp=sharing)
 |16 | Functional tasks | [Colab](https://colab.research.google.com/drive/1xFiGPwNkJztADLbskVqUpR_iboX8kvn0) | [Jupyter](https://drive.google.com/file/d/1xFiGPwNkJztADLbskVqUpR_iboX8kvn0/view?usp=sharing)
+|17 | Abstract data types | [Colab](https://colab.research.google.com/drive/1fRzr5BOQzzLrB3X2p5p6AeeljT1xHcE3) | [Jupyter](https://drive.google.com/file/d/1fRzr5BOQzzLrB3X2p5p6AeeljT1xHcE3/view?usp=sharing)
