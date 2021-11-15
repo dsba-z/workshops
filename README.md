@@ -71,3 +71,5 @@ To be able to run code in Google Colab, create your own copy of the notebook.
 |15 | Iterators and Generators | [Colab](https://colab.research.google.com/drive/1EnkVxx2QJ6UBK6uEgV35rTO7TK_JSh6G) | [Jupyter](https://drive.google.com/file/d/1EnkVxx2QJ6UBK6uEgV35rTO7TK_JSh6G/view?usp=sharing)
 |16 | Functional tasks | [Colab](https://colab.research.google.com/drive/1xFiGPwNkJztADLbskVqUpR_iboX8kvn0) | [Jupyter](https://drive.google.com/file/d/1xFiGPwNkJztADLbskVqUpR_iboX8kvn0/view?usp=sharing)
 |17 | Abstract data types | [Colab](https://colab.research.google.com/drive/1fRzr5BOQzzLrB3X2p5p6AeeljT1xHcE3) | [Jupyter](https://drive.google.com/file/d/1fRzr5BOQzzLrB3X2p5p6AeeljT1xHcE3/view?usp=sharing)
+|17.5 | Graphs (self-practice) | [Colab](https://colab.research.google.com/drive/1TJbAw_21DfrRpHSeQmOLWA4pWpFYUm0F) | [Jupyter](https://drive.google.com/file/d/1TJbAw_21DfrRpHSeQmOLWA4pWpFYUm0F/view?usp=sharing)
+|18 | Files, exceptions | [Colab](https://colab.research.google.com/drive/1ewXawJhhl6pc8E1ZKrFc2vkZqGQG8yqR) | [Jupyter](https://drive.google.com/file/d/1ewXawJhhl6pc8E1ZKrFc2vkZqGQG8yqR/view?usp=sharing)
