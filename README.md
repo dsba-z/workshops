@@ -4,12 +4,36 @@ A page with all the workshop materials for the Introduction to Programming cours
 
 # Materials
 
+
+## Project
+
+**Deadline**: December 12th, 23:59\
+**Submission format**. Jupyter Notebook, submit a link to the notebook file and the dataset file via this Google form: https://forms.gle/HmPppnnCpmCx9nZN8 \
+**Dataset selection**. After you choose a dataset for the project, submit it to this form: https://forms.gle/hQx7fpaneXKgRAJt9 
+
+When selecting a dataset, check this table with the form responses to make sure nobody else has picked it.  \
+https://docs.google.com/spreadsheets/d/1WQSgOzQdamwSWXexN7EHtVv2sstl6A9yVguQUMCAcZk
+
+**Project description**: Find a dataset with text data and analyze it the following way.
+- Output descriptive statistics of the dataset: mean, median, standard deviation. Do this for at least 3 numerical fields.
+- Plot at least 3 numerical fields. Choose the plot type based on the data. It may make more sense to do a scatter plot, a regular plot, a histogram or something else.
+- Do at least 2 comparisons similar to the ones in the Titanic example. "What are the distributions of column A for different values of column B?" Output as either numbers or plots.
+- Describe your results in 2-3 paragraphs of text. What you can see from the plot, from the statistics and comparisons.
+- For pilot students one of the requirements is to set up a web server using the Flask framework. Web Server interface should be one of the following: end users must be able to get required data using get-requests, html page or telegram-bot.
+Additional notes:
+- Plots for tasks 2 and 3 are counted separately. So, your project has to have at least 5 plots in total.
+- Make sure your plots have proper legends, titles, axis titles, so that it’s easy to understand what the graph represents.
+- Try to format your project as a sequence of problems you’re solving. What the data looks like, what are some questions you can answer with the data. You should try to make a simple analysis project instead of doing exactly the bare minimum of tasks 1-4.
+
+
+
+## Lecture schedule
 Online lectures for the course:
 
 [Programming for everybody](https://www.coursera.org/learn/python?specialization=python) (PFE)
 [Python Data Structures](https://www.coursera.org/learn/python-data) (PDS)
 
-## Lecture schedule
+
 | Week | Topics |
 |---------|------|
 | 1 | PFE. Week 1&3. Chapter One - Why do we Program? Week 2. Installing and Using Python |
