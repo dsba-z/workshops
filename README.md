@@ -20,6 +20,7 @@ https://docs.google.com/spreadsheets/d/1WQSgOzQdamwSWXexN7EHtVv2sstl6A9yVguQUMCA
 - Do at least 2 comparisons similar to the ones in the Titanic example. "What are the distributions of column A for different values of column B?" Output as either numbers or plots.
 - Describe your results in 2-3 paragraphs of text. What you can see from the plot, from the statistics and comparisons.
 - For pilot students one of the requirements is to set up a web server using the Flask framework. Web Server interface should be one of the following: end users must be able to get required data using get-requests, html page or telegram-bot.
+
 Additional notes:
 - Plots for tasks 2 and 3 are counted separately. So, your project has to have at least 5 plots in total.
 - Make sure your plots have proper legends, titles, axis titles, so that it’s easy to understand what the graph represents.
