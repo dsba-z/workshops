@@ -8,7 +8,10 @@ A page with all the workshop materials for the Introduction to Programming cours
 ## Project
 
 **Deadline**: December 12th, 23:59\
-**Submission format**. Jupyter Notebook, submit a link to the notebook file and the dataset file via this Google form: https://forms.gle/HmPppnnCpmCx9nZN8 \
+**Submission format**. Jupyter Notebook + Data file. Submit the notebook file and the dataset example via this Google form: https://forms.gle/cvG8tLn2ugjMMAPj8  
+
+If your data is larger than 10 MB, please use a subset of data under 10 MB and submit the subset into the form.
+
 **Dataset selection**. After you choose a dataset for the project, submit it to this form: https://forms.gle/hQx7fpaneXKgRAJt9 
 
 When selecting a dataset, check this table with the form responses to make sure nobody else has picked it.  \
