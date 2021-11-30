@@ -106,5 +106,7 @@ To be able to run code in Google Colab, create your own copy of the notebook.
 |20| File system. Practice| [Colab](https://colab.research.google.com/drive/11Uj52_pOlLu_b1TFMgPXf4BpiMYVjuPo) | [Jupyter](https://drive.google.com/file/d/11Uj52_pOlLu_b1TFMgPXf4BpiMYVjuPo/view?usp=sharing)
 |21| Numpy| [Colab](https://colab.research.google.com/drive/1RYc16Si3KOGjornzRhGG0cR_ldk0upOD) | [Jupyter](https://drive.google.com/file/d/1RYc16Si3KOGjornzRhGG0cR_ldk0upOD/view?usp=sharing)
 |22| Pandas| [Colab](https://colab.research.google.com/drive/1WqyvV9_h5eD_dDMine4bRYyjEUAzNWQw) | [Jupyter](https://drive.google.com/file/d/1WqyvV9_h5eD_dDMine4bRYyjEUAzNWQw/view?usp=sharing)
+|23| Titanic| [Colab](https://colab.research.google.com/drive/1VXqRxxfI9b1Hp_zi_VccTbO7fLlesH1t) | [Jupyter](https://drive.google.com/file/d/1VXqRxxfI9b1Hp_zi_VccTbO7fLlesH1t/view?usp=sharing)
+
 
 
