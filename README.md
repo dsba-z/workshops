@@ -29,7 +29,9 @@ Additional notes:
 - Make sure your plots have proper legends, titles, axis titles, so that it’s easy to understand what the graph represents.
 - Try to format your project as a sequence of problems you’re solving. What the data looks like, what are some questions you can answer with the data. You should try to make a simple analysis project instead of doing exactly the bare minimum of tasks 1-4.
 
+## Bonus task
 
+An additional task for bonus points is available in this repository in the file Bonus.md.
 
 ## Lecture schedule
 Online lectures for the course:
