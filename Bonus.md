@@ -1,6 +1,10 @@
 Load the file [exams.csv](https://gist.githubusercontent.com/l8doku/17179b523dde077b67834ca1a78edebf/raw/b21350957dabde120c3aca3f08cd63073c7f1b3b/exams.csv) into a data frame. Use this data frame in the following tasks.
 
+The maximum number of points you can get for this task is 10.
 
+However, scoring is not fixed. Quality of code matters, so just getting the correct result is not enough to get the maximum score. Splitting code into functions, increasing reusability and extensibility, good plot formatting (legends, axis labels, possibly animation) all lead to better scores.
+
+Additionally, if you already have many points for workshops, solving this task may not be necessary for you. Points will be normalized at the end, so those who already have many points, will get a score close to maximum anyway.
 
 ## Task 1. Closest point.
 
