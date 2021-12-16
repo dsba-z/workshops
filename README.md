@@ -112,4 +112,4 @@ To be able to run code in Google Colab, create your own copy of the notebook.
 |24| Visualization| [Colab](https://colab.research.google.com/drive/1rafsGZoSxILN1NbtwZAUvMUoaEGsQ-Cp) | [Jupyter](https://drive.google.com/file/d/1rafsGZoSxILN1NbtwZAUvMUoaEGsQ-Cp/view?usp=sharing)
 |25-26| Requests. Web scraping.| [Colab](https://colab.research.google.com/drive/1PlIMK9UkOCKlyRP-wiFfBnMCm9hIVc3J) | [Jupyter](https://drive.google.com/file/d/1PlIMK9UkOCKlyRP-wiFfBnMCm9hIVc3J/view?usp=sharing)
 |27| Flask. Web application | [Colab](https://colab.research.google.com/drive/19Gg8rmlnlCQmkH7jkA7Ohcc9GGsjoSnQ) | [Jupyter](https://drive.google.com/file/d/19Gg8rmlnlCQmkH7jkA7Ohcc9GGsjoSnQ/view?usp=sharing)
-
+|28| Flask. Web deployment | [Colab](https://colab.research.google.com/drive/1gwU27N-Cb98zKIoAIMmiW2gUkZFMZt1G) | [Jupyter](https://drive.google.com/file/d/1gwU27N-Cb98zKIoAIMmiW2gUkZFMZt1G/view?usp=sharing)
