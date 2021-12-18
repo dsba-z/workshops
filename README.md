@@ -4,6 +4,13 @@ A page with all the workshop materials for the Introduction to Programming cours
 
 # Materials
 
+## Exam
+
+**Format**: Yandex.Contest, like the midterm test. Several tasks, 2 hours (120 minutes).
+
+**Topics**: Workshops 1-14 below
+
+**Grading**: out of 10. The grade doesn't use points like all other activities. It goes directly into your final grade as 40% of it.
 
 ## Project
 
