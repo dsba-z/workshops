@@ -12,6 +12,19 @@ A page with all the workshop materials for the Introduction to Programming cours
 |------|-------|----------|--------------|--------------|--------------|
 | 1    | Tools | [Archive](https://bit.ly/dsba-z-week1) and [Repository](https://github.com/dsba-z/week1cpp2021) | [212-2 branch](https://github.com/dsba-z/week1cpp2021/tree/212-2) | [213-1 branch](https://github.com/dsba-z/week1cpp2021/tree/213-1) | [213-2 branch](https://github.com/dsba-z/week1cpp2021/tree/213-2) | 
 
+## Using "repository" links
+
+There are two main ways how you can download a workshop project from GitHub
+
+1. Download ZIP
+    1. Click the green button "code" on the repository's GitHub page
+    2. Click "Download ZIP"
+1. Pull the Git repository
+    1. Install Git
+    2. Click the green button "code" and copy the link it gives you
+    3. Use the link to clone the repository (precise methods varies with your git installation. It might be `git clone <link>` terminal command or a user interface command).
+    4. Checkout the branch you need. `git checkout <branch-name>` or GUI command.
+
 
 # Attendance and points
 
