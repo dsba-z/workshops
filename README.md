@@ -42,6 +42,7 @@ Please put comments in the table if you notice something missing.
 ## Documentation
 
 https://en.cppreference.com/w/
+
 https://www.cplusplus.com/
 
 ## Book
