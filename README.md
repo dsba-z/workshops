@@ -37,3 +37,15 @@ Please put comments in the table if you notice something missing.
 |  213-1    | [Points](https://docs.google.com/spreadsheets/d/1gEqq49UKkRkQQ3AIN4JzsjqbYVgg3Ixsq5G9vrEC-UM) |
 |  213-2    | [Points](https://docs.google.com/spreadsheets/d/1ldPHDAlyLtySXK89lOq1EfpqADFTqaJUkaIkFSykrFs) |
 
+# Useful resources
+
+## Documentation
+
+https://en.cppreference.com/w/
+https://www.cplusplus.com/
+
+## Book
+
+[C++ Primer Plus](https://www.pearson.com/store/p/c-primer-plus/P100000930797/9780321776402)
+
+
