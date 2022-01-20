@@ -1,7 +1,11 @@
 A page with all the workshop materials for the Introduction to Programming course for groups 212-2, 213-1 and 213-2.
 
 -----
+# Contests
 
+| N | Link |
+|---|------|
+| 1 | https://official.contest.yandex.com/contest/34681 |
 
 # Workshops
 
