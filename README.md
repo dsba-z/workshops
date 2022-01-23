@@ -9,7 +9,7 @@ A page with all the workshop materials for the Introduction to Programming cours
 
 # Workshops
 
-[**Submit your code from workshops here**](https://forms.gle/B5ogs6HxypxFWYvz8)
+[**Submit your code from workshops here**](https://forms.gle/Gmsvd6ujt7nq7zgx7)
 
 
 | Week | Topic | Original | 212-2 Result | 213-1 Result | 213-2 Result |
