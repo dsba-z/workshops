@@ -16,7 +16,7 @@ A page with all the workshop materials for the Introduction to Programming cours
 |------|-------|----------|--------------|--------------|--------------|
 | 1    | Tools, basics, loops | [Archive](https://bit.ly/dsba-z-week1) and [Repository](https://github.com/dsba-z/week1cpp2021) | [212-2 branch](https://github.com/dsba-z/week1cpp2021/tree/212-2) | [213-1 branch](https://github.com/dsba-z/week1cpp2021/tree/213-1) | [213-2 branch](https://github.com/dsba-z/week1cpp2021/tree/213-2) | 
 | 2    | Strings, input | [Repository](https://github.com/dsba-z/week2cpp2021) | [212-2 branch](https://github.com/dsba-z/week2cpp2021/tree/212-2) | [213-1 branch](https://github.com/dsba-z/week2cpp2021/tree/213-1) | [213-2 branch](https://github.com/dsba-z/week2cpp2021/tree/213-2) | 
-| 3    | Strings, streams, functions | [Repository](https://github.com/pumpkin-code/dsba-prog-2022spring-wshps05-06) | | | |
+| 3    | Strings, streams, functions | [Repository](https://github.com/pumpkin-code/dsba-prog-2022spring-wshps05-06) | [212-2 branch](https://github.com/dsba-z/week3cpp2021/tree/212-2)  | [213-1 branch](https://github.com/dsba-z/week3cpp2021/tree/213-1)  | [213-2 branch](https://github.com/dsba-z/week3cpp2021/tree/213-2) |
 
 ## Using "repository" links
 
