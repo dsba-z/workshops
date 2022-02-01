@@ -17,7 +17,17 @@ A page with all the workshop materials for the Introduction to Programming cours
 |------|-------|----------|--------------|--------------|--------------|
 | 1    | Tools, basics, loops | [Archive](https://bit.ly/dsba-z-week1) and [Repository](https://github.com/dsba-z/week1cpp2021) | [212-2 branch](https://github.com/dsba-z/week1cpp2021/tree/212-2) | [213-1 branch](https://github.com/dsba-z/week1cpp2021/tree/213-1) | [213-2 branch](https://github.com/dsba-z/week1cpp2021/tree/213-2) | 
 | 2    | Strings, input | [Repository](https://github.com/dsba-z/week2cpp2021) | [212-2 branch](https://github.com/dsba-z/week2cpp2021/tree/212-2) | [213-1 branch](https://github.com/dsba-z/week2cpp2021/tree/213-1) | [213-2 branch](https://github.com/dsba-z/week2cpp2021/tree/213-2) | 
-| 3    | Strings, streams, functions | [**Repository**](https://github.com/dsba-z/week3cpp2021/tree/master) | [212-2 branch](https://github.com/dsba-z/week3cpp2021/tree/212-2)  | [213-1 branch](https://github.com/dsba-z/week3cpp2021/tree/213-1)  | [213-2 branch](https://github.com/dsba-z/week3cpp2021/tree/213-2) |
+| 3, 4    | Strings, streams, functions | [**Repository**](https://github.com/dsba-z/week3cpp2021/tree/master) | [212-2 branch](https://github.com/dsba-z/week3cpp2021/tree/212-2)  | [213-1 branch](https://github.com/dsba-z/week3cpp2021/tree/213-1)  | [213-2 branch](https://github.com/dsba-z/week3cpp2021/tree/213-2) |
+
+**Workshop 7 tasks**:
+
+- ex2_filter_input (this time with files)
+- ex6_string_stream (mostly explanation about speed, and once again about syntax)
+- ex7_ints_lines (practicing reading until the end of input)
+- problem5_split_and_output, if wasn't done already
+- problem6_avg_input
+- problem7_read_from_stream, if wasn't done already
+- problem8_files
 
 ## Using "repository" links
 
