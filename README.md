@@ -6,6 +6,7 @@ A page with all the workshop materials for the Introduction to Programming cours
 | N | Link |
 |---|------|
 | 1 | https://official.contest.yandex.com/contest/34681 |
+| 2 | https://official.contest.yandex.com/contest/34955 |
 
 # Workshops
 
