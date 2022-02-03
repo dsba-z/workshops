@@ -17,8 +17,8 @@ A page with all the workshop materials for the Introduction to Programming cours
 |------|-------|----------|--------------|--------------|--------------|
 | 1    | Tools, basics, loops | [Archive](https://bit.ly/dsba-z-week1) and [Repository](https://github.com/dsba-z/week1cpp2021) | [212-2 branch](https://github.com/dsba-z/week1cpp2021/tree/212-2) | [213-1 branch](https://github.com/dsba-z/week1cpp2021/tree/213-1) | [213-2 branch](https://github.com/dsba-z/week1cpp2021/tree/213-2) | 
 | 2    | Strings, input | [Repository](https://github.com/dsba-z/week2cpp2021) | [212-2 branch](https://github.com/dsba-z/week2cpp2021/tree/212-2) | [213-1 branch](https://github.com/dsba-z/week2cpp2021/tree/213-1) | [213-2 branch](https://github.com/dsba-z/week2cpp2021/tree/213-2) | 
-| 3, 4    | Strings, streams, functions | [**Repository**](https://github.com/dsba-z/week3cpp2021/tree/master) | [212-2 branch](https://github.com/dsba-z/week3cpp2021/tree/212-2)  | [213-1 branch](https://github.com/dsba-z/week3cpp2021/tree/213-1)  | [213-2 branch](https://github.com/dsba-z/week3cpp2021/tree/213-2) |
-| 4    | Streams, functions, iterators | [Repository](https://github.com/dsba-z/week4cpp2021) |   |  |  |
+| 3, 4    | Strings, streams, functions | [Repository (with notes)](https://github.com/dsba-z/week3cpp2021/tree/master) | [212-2 branch](https://github.com/dsba-z/week3cpp2021/tree/212-2)  | [213-1 branch](https://github.com/dsba-z/week3cpp2021/tree/213-1)  | [213-2 branch](https://github.com/dsba-z/week3cpp2021/tree/213-2) |
+| 4    | Streams, functions, iterators | [**Repository**](https://github.com/dsba-z/week4cpp2021) |   |  |  |
 
 
 ## Using "repository" links
@@ -33,6 +33,8 @@ There are two main ways how you can download a workshop project from GitHub
     2. Click the green button "code" and copy the link it gives you
     3. Use the link to clone the repository (precise methods varies with your git installation. It might be `git clone <link>` terminal command or a user interface command).
     4. Checkout the branch you need. `git checkout <branch-name>` or GUI command.
+
+More notes on using Git [HERE](https://github.com/dsba-z/workshops/blob/master/git-guide.md)
 
 
 # Attendance and points
