@@ -24,7 +24,8 @@ A page with all the workshop materials for the Introduction to Programming cours
 | 3, 4    | Strings, streams, functions | [Repository (with notes)](https://github.com/dsba-z/week3cpp2021/tree/master) | [212-2 branch](https://github.com/dsba-z/week3cpp2021/tree/212-2)  | [213-1 branch](https://github.com/dsba-z/week3cpp2021/tree/213-1)  | [213-2 branch](https://github.com/dsba-z/week3cpp2021/tree/213-2) |
 | 4, 5    | Streams, functions, iterators | [Repository](https://github.com/dsba-z/week4cpp2021) | [212-2 branch](https://github.com/dsba-z/week4cpp2021/tree/212-2)  | [213-1 branch](https://github.com/dsba-z/week4cpp2021/tree/213-1)  | [213-2 branch](https://github.com/dsba-z/week4cpp2021/tree/213-2) |
 | 6,7 | Maps, sets | [Repository](https://github.com/dsba-z/week6cpp2021) | [212-2 branch](https://github.com/dsba-z/week6cpp2021/tree/212-2)  | [213-1 branch](https://github.com/dsba-z/week6cpp2021/tree/213-1)  | [213-2 branch](https://github.com/dsba-z/week6cpp2021/tree/213-2) ||
-| 8 | Structures, classes, operators | [**Repository**](https://github.com/dsba-z/week8cpp2021) | [212-2 branch](https://github.com/dsba-z/week8cpp2021/tree/212-2)  |  [213-1 branch](https://github.com/dsba-z/week8cpp2021/tree/213-1)  |  [213-2 branch](https://github.com/dsba-z/week8cpp2021/tree/213-2)  |
+| 8, 9 | Structures, classes, operators | [**Repository**](https://github.com/dsba-z/week8cpp2021) | [212-2 branch](https://github.com/dsba-z/week8cpp2021/tree/212-2)  |  [213-1 branch](https://github.com/dsba-z/week8cpp2021/tree/213-1)  |  [213-2 branch](https://github.com/dsba-z/week8cpp2021/tree/213-2)  |
+
 
 ## Using "repository" links
 
