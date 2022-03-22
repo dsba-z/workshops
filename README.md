@@ -8,7 +8,7 @@ A page with all the workshop materials for the Introduction to Programming cours
 | 1 | https://official.contest.yandex.com/contest/34681 |
 | 2 | https://official.contest.yandex.com/contest/34955 |
 | 3 | https://official.contest.yandex.com/contest/35587 |
-| 3 | https://official.contest.yandex.com/contest/36202 |
+| 4 | https://official.contest.yandex.com/contest/36202 |
 
 
 
@@ -26,7 +26,8 @@ A page with all the workshop materials for the Introduction to Programming cours
 | 6,7 | Maps, sets | [Repository](https://github.com/dsba-z/week6cpp2021) | [212-2 branch](https://github.com/dsba-z/week6cpp2021/tree/212-2)  | [213-1 branch](https://github.com/dsba-z/week6cpp2021/tree/213-1)  | [213-2 branch](https://github.com/dsba-z/week6cpp2021/tree/213-2) ||
 | 8, 9 | Structures, classes, operators | [Repository](https://github.com/dsba-z/week8cpp2021) | [212-2 branch](https://github.com/dsba-z/week8cpp2021/tree/212-2)  |  [213-1 branch](https://github.com/dsba-z/week8cpp2021/tree/213-1)  |  [213-2 branch](https://github.com/dsba-z/week8cpp2021/tree/213-2)  |
 | 9 | Class, operators, practice | [Repository](https://github.com/dsba-z/week9cpp2021-vector) | [212-2 branch](https://github.com/dsba-z/week9cpp2021-vector/tree/212-2)  |  [213-1 branch](https://github.com/dsba-z/week9cpp2021-vector/tree/213-1)  |  [213-2 branch](https://github.com/dsba-z/week9cpp2021-vector/tree/213-2)  |
-| 10 | More classes | [**Repository**](https://github.com/dsba-z/week10cpp2021) | | | |
+| 10 | More classes | [Repository](https://github.com/dsba-z/week10cpp2021) | | | |
+| 11 | Bitwise and tests | [**Repository**](https://github.com/dsba-z/week11cpp2021) | | | |
 
 
 
