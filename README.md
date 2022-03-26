@@ -9,7 +9,7 @@ A page with all the workshop materials for the Introduction to Programming cours
 | 2 | https://official.contest.yandex.com/contest/34955 |
 | 3 | https://official.contest.yandex.com/contest/35587 |
 | 4 | https://official.contest.yandex.com/contest/36202 |
-| 5 | [Task preview](https://github.com/dsba-z/admission-problem/blob/master/contest5_admission_v1.3.pdf) |
+| 5 | https://official.contest.yandex.com/contest/36759 |
 
 
 
