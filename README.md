@@ -28,9 +28,9 @@ A page with all the workshop materials for the Introduction to Programming cours
 | 8, 9 | Structures, classes, operators | [Repository](https://github.com/dsba-z/week8cpp2021) | [212-2 branch](https://github.com/dsba-z/week8cpp2021/tree/212-2)  |  [213-1 branch](https://github.com/dsba-z/week8cpp2021/tree/213-1)  |  [213-2 branch](https://github.com/dsba-z/week8cpp2021/tree/213-2)  |
 | 9 | Class, operators, practice | [Repository](https://github.com/dsba-z/week9cpp2021-vector) | [212-2 branch](https://github.com/dsba-z/week9cpp2021-vector/tree/212-2)  |  [213-1 branch](https://github.com/dsba-z/week9cpp2021-vector/tree/213-1)  |  [213-2 branch](https://github.com/dsba-z/week9cpp2021-vector/tree/213-2)  |
 | 10 | More classes | [Repository](https://github.com/dsba-z/week10cpp2021) | | | |
-| 11 | Bitwise | [**Repository**](https://github.com/dsba-z/week11cpp2021) \| [Replit](https://replit.com/@l8doku/Workshop24BitwiseFunctions) | | | |
-| 11 | Tests | [**Repository**](https://github.com/dsba-z/week11cpp2021tests) \| [Replit](https://replit.com/@l8doku/Workshop24BitwiseTests)| | | |
-| 12 | Function objects | [**Repository**](https://github.com/dsba-z/week11cpp2021) \| [Replit](https://replit.com/@l8doku/Workshop23FunctionObjects) | | | |
+| 11 | Bitwise | [Repository](https://github.com/dsba-z/week11cpp2021) \| [Replit](https://replit.com/@l8doku/Workshop24BitwiseFunctions) | | | |
+| 11 | Tests | [Repository](https://github.com/dsba-z/week11cpp2021tests) \| [Replit](https://replit.com/@l8doku/Workshop24BitwiseTests)| | | |
+| 12 | Function objects | [**Task in repository**](https://github.com/dsba-z/week11cpp2021/blob/master/workshops23-24.pdf) \| [Replit](https://replit.com/@l8doku/Workshop23FunctionObjects) | | | |
 
 
 
