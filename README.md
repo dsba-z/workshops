@@ -31,7 +31,7 @@ A page with all the workshop materials for the Introduction to Programming cours
 | 11 | Bitwise | [Repository](https://github.com/dsba-z/week11cpp2021) \| [Replit](https://replit.com/@l8doku/Workshop24BitwiseFunctions) | | | |
 | 11 | Tests | [Repository](https://github.com/dsba-z/week11cpp2021tests) \| [Replit](https://replit.com/@l8doku/Workshop24BitwiseTests)| | | |
 | 12 | Function objects | [Repository (problem 3)](https://github.com/dsba-z/week11cpp2021) \| [Replit](https://replit.com/@l8doku/Workshop23FunctionObjects) | | | |
-| 13 | STL algorithms | [**Instructions**](workshops25-26.pdf) \| [Replit](https://replit.com/@l8doku/Workshop23FunctionObjects) | | | |
+| 13 | STL algorithms | [**Instructions**](workshops25-26.pdf) \| [Replit](https://replit.com/@l8doku/Workshop23FunctionObjects) \|  [Repo](https://github.com/dsba-z/week13cpp2021)| | | |
 
 
 ## Using "repository" links
