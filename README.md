@@ -17,22 +17,22 @@ A page with all the workshop materials for the Introduction to Programming cours
 [**Submit your code from workshops here**][submission-form]
 
 
-| Week |           Topic             |              Original         |     Online        |   212-2 Result       |        213-1 Result |        213-2 Result |
-|------|-----------------------------|-------------------------------|-------------------|----------------------|---------------------|---------------------|
-| 1    | Tools, basics, loops | [Archive][w1-ar] and [Repository][w1]|                   |  [212-2][w1-212-2]   | [213-1][w1-213-1]   | [213-2][w1-213-2]   | 
-| 2    | Strings, input              | [Repository][w2]              |                   |  [212-2][w2-212-2]   | [213-1][w2-213-1]   | [213-2][w2-213-2]   | 
-| 3, 4 | Strings, streams, functions | [Repository (with notes)][w3] |                   |  [212-2][w3-212-2]   | [213-1][w3-213-1]   | [213-2][w3-213-2]   |
-| 4, 5 | Streams, functions, iterators | [Repository][w4]            |                   |  [212-2][w4-212-2]   | [213-1][w4-213-1]   | [213-2][w4-213-2]   |
-| 6,7  | Maps, sets                  | [Repository][w6]              |                   |  [212-2][w6-212-2]   | [213-1][w6-213-1]   | [213-2][w6-213-2]   |
-| 8, 9 | Structures, classes, operators | [Repository][w8]           |                   |  [212-2][w8-212-2]   | [213-1][w8-213-1]   | [213-2][w8-213-2]   |
-| 9    | Class, operators, practice  | [Repository][w9]              |                   |  [212-2][w9-212-2]   | [213-1][w9-213-1]   | [213-2][w9-213-2]   |
-| 10   | More classes                | [Repository][w10]             |                   |  [212-2][w10-212-2]  | [213-1][w10-213-1]  | [213-2][w10-213-2]  |
-| 11   | Bitwise                     | [Repository][w11]       | [Replit][r24-bitwise]   |  [212-2][w11-212-2]  | [213-1][w11-213-1]  | [213-2][w11-213-2]  | 
-| 11   | Tests                       | [Repository][w11t]            | [Replit][r24-t]   |                      |                     |                     | 
-| 12   | Function objects            | [Repository (problem 3)][w11] | [Replit][r23-fo]  |  [212-2][w12-212-2]  | [213-1][w12-213-1]  | [213-2][w12-213-2]  | 
-| 13   | STL algorithms        | [Instructions][w13pdf] \| [Repo][w13]| [Replit][r23-fo]  |  [212-2][w13-212-2]  | [213-1][w13-213-1]  | [213-2][w13-213-2]  |
-| 13.5 | Custom exceptions, inheritance|[Instructions][w135pdf] \| [Repo][w11]|[Replit][r23-fo]|[212-2][w135-212-2]| [213-1][w135-213-1] | [213-2][w135-213-2]|
-| 14   | STL algorithms, templates   | [Instructions][w14pdf] \| [Repo][w13] |[Replit][r27-stl]|                  |                     |                     |
+| Week |           Topic             |              Original             |     Online        |   212-2 Result       |        213-1 Result |        213-2 Result |
+|------|-----------------------------|-----------------------------------|-------------------|----------------------|---------------------|---------------------|
+| 1    | Tools, basics, loops | [Archive][w1-ar] and [Repository][w1]    |                   |  [212-2][w1-212-2]   | [213-1][w1-213-1]   | [213-2][w1-213-2]   | 
+| 2    | Strings, input              | [Repository][w2]                  |                   |  [212-2][w2-212-2]   | [213-1][w2-213-1]   | [213-2][w2-213-2]   | 
+| 3, 4 | Strings, streams, functions | [Repository (with notes)][w3]     |                   |  [212-2][w3-212-2]   | [213-1][w3-213-1]   | [213-2][w3-213-2]   |
+| 4, 5 | Streams, functions, iterators | [Repository][w4]                |                   |  [212-2][w4-212-2]   | [213-1][w4-213-1]   | [213-2][w4-213-2]   |
+| 6,7  | Maps, sets                  | [Repository][w6]                  |                   |  [212-2][w6-212-2]   | [213-1][w6-213-1]   | [213-2][w6-213-2]   |
+| 8, 9 | Structures, classes, operators | [Repository][w8]               |                   |  [212-2][w8-212-2]   | [213-1][w8-213-1]   | [213-2][w8-213-2]   |
+| 9    | Class, operators, practice  | [Repository][w9]                  |                   |  [212-2][w9-212-2]   | [213-1][w9-213-1]   | [213-2][w9-213-2]   |
+| 10   | More classes                | [Repository][w10]                 |                   |  [212-2][w10-212-2]  | [213-1][w10-213-1]  | [213-2][w10-213-2]  |
+| 11   | Bitwise                     | [Repository][w11]           | [Replit][r24-bitwise]   |  [212-2][w11-212-2]  | [213-1][w11-213-1]  | [213-2][w11-213-2]  | 
+| 11   | Tests                       | [Repository][w11t]                | [Replit][r24-t]   |                      |                     |                     | 
+| 12   | Function objects            | [Repository (problem 3)][w11]     | [Replit][r23-fo]  |  [212-2][w12-212-2]  | [213-1][w12-213-1]  | [213-2][w12-213-2]  | 
+| 13   | STL algorithms        | [Instructions][w13pdf] \| [Repo][w13]   | [Replit][r23-fo]  |  [212-2][w13-212-2]  | [213-1][w13-213-1]  | [213-2][w13-213-2]  |
+| 13.5 | Custom exceptions, inheritance|[Instructions][w135pdf] \| [Repo][w11]| [Replit][r23-fo]|[212-2][w135-212-2]| [213-1][w135-213-1] | [213-2][w135-213-2] |
+| 14   | STL algorithms, templates | [Instructions][w14pdf] \| [Repo][w13] | [Replit][r27-stl]| [212-2][w13-212-2]  | [213-1][w13-213-1]  | [213-2][w13-213-2]  |
 
 ## Using "repository" links
 
