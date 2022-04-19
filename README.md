@@ -9,12 +9,12 @@ A page with all the workshop materials for the Introduction to Programming cours
 | 2 | https://official.contest.yandex.com/contest/34955 |
 | 3 | https://official.contest.yandex.com/contest/35587 |
 | 4 | https://official.contest.yandex.com/contest/36202 |
-| 5 | https://official.contest.yandex.com/contest/36759 ||
+| 5 | https://official.contest.yandex.com/contest/36759 |
 | 6 | https://official.contest.yandex.com/contest/37216 |
 
 # Workshops
 
-[**Submit your code from workshops here**](https://forms.gle/Gmsvd6ujt7nq7zgx7)
+[**Submit your code from workshops here**](submission-form)
 
 
 | Week | Topic | Original | 212-2 Result | 213-1 Result | 213-2 Result |
@@ -72,3 +72,5 @@ https://www.cplusplus.com/
 [C++ Primer Plus](https://www.pearson.com/store/p/c-primer-plus/P100000930797/9780321776402)
 
 
+
+[submission-form]: https://forms.gle/Gmsvd6ujt7nq7zgx7
