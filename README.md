@@ -30,9 +30,9 @@ A page with all the workshop materials for the Introduction to Programming cours
 | 11   | Bitwise                     | [Repository][w11]       | [Replit][r24-bitwise]   |  [212-2][w11-212-2]  | [213-1][w11-213-1]  | [213-2][w11-213-2]  | 
 | 11   | Tests                       | [Repository][w11t]            | [Replit][r24-t]   |                      |                     |                     | 
 | 12   | Function objects            | [Repository (problem 3)][w11] | [Replit][r23-fo]  |  [212-2][w12-212-2]  | [213-1][w12-213-1]  | [213-2][w12-213-2]  | 
-| 13   | STL algorithms        | [Instructions][w13pdf] \|[Repo][w13]| [Replit][r23-fo]  |  [212-2][w13-212-2]  | [213-1][w13-213-1]  | [213-2][w13-213-2]  |
-| 13.5 | Custom exceptions, inheritance|[Instructions][w135pdf]\|[Repo][w11]|[Replit][r23-fo]|[212-2][w135-212-2]| [213-1][w135-213-1] | [213-2][w135-213-2]|
-| 14   | STL algorithms, templates   | [Instructions][w14pdf]\|[Repo][w13] |[Replit][r27-stl]|                  |                     |                     |
+| 13   | STL algorithms        | [Instructions][w13pdf] \| [Repo][w13]| [Replit][r23-fo]  |  [212-2][w13-212-2]  | [213-1][w13-213-1]  | [213-2][w13-213-2]  |
+| 13.5 | Custom exceptions, inheritance|[Instructions][w135pdf] \| [Repo][w11]|[Replit][r23-fo]|[212-2][w135-212-2]| [213-1][w135-213-1] | [213-2][w135-213-2]|
+| 14   | STL algorithms, templates   | [Instructions][w14pdf] \| [Repo][w13] |[Replit][r27-stl]|                  |                     |                     |
 
 ## Using "repository" links
 
