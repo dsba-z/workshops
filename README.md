@@ -95,8 +95,8 @@ https://www.cplusplus.com/
 [w7]: https://github.com/dsba-z/week7cpp2021
 [w8]: https://github.com/dsba-z/week8cpp2021
 [w9]: https://github.com/dsba-z/week9cpp2021-vector
-[w10]: https://github.com/dsba-z/wee10cpp2021
-[w11]: https://github.com/dsba-z/wee11cpp2021
+[w10]: https://github.com/dsba-z/week10cpp2021
+[w11]: https://github.com/dsba-z/week11cpp2021
 [w11t]: https://github.com/dsba-z/week11cpp2021tests
 [w13]: https://github.com/dsba-z/week13cpp2021
 [w14]: https://github.com/dsba-z/week14cpp2021
@@ -111,8 +111,8 @@ https://www.cplusplus.com/
 [w7-212-2]: https://github.com/dsba-z/week7cpp2021/tree/212-2
 [w8-212-2]: https://github.com/dsba-z/week8cpp2021/tree/212-2
 [w9-212-2]: https://github.com/dsba-z/week9cpp2021-vector/tree/212-2
-[w10-212-2]: https://github.com/dsba-z/wee10cpp2021/tree/212-2
-[w11-212-2]: https://github.com/dsba-z/wee11cpp2021/tree/212-2
+[w10-212-2]: https://github.com/dsba-z/week10cpp2021/tree/212-2
+[w11-212-2]: https://github.com/dsba-z/week11cpp2021/tree/212-2
 [w11t-212-2]: https://github.com/dsba-z/week11cpp2021tests/tree/212-2
 [w12-212-2]: https://github.com/dsba-z/week11cpp2021/tree/212-2-w24
 [w13-212-2]: https://github.com/dsba-z/week13cpp2021/tree/212-2
@@ -130,8 +130,8 @@ https://www.cplusplus.com/
 [w7-213-1]: https://github.com/dsba-z/week7cpp2021/tree/213-1
 [w8-213-1]: https://github.com/dsba-z/week8cpp2021/tree/213-1
 [w9-213-1]: https://github.com/dsba-z/week9cpp2021-vector/tree/213-1
-[w10-213-1]: https://github.com/dsba-z/wee10cpp2021/tree/213-1
-[w11-213-1]: https://github.com/dsba-z/wee11cpp2021/tree/213-1
+[w10-213-1]: https://github.com/dsba-z/week10cpp2021/tree/213-1
+[w11-213-1]: https://github.com/dsba-z/week11cpp2021/tree/213-1
 [w11t-213-1]: https://github.com/dsba-z/week11cpp2021tests/tree/213-1
 [w12-213-1]: https://github.com/dsba-z/week11cpp2021/tree/213-1-w24
 [w13-213-1]: https://github.com/dsba-z/week13cpp2021/tree/213-1
@@ -148,8 +148,8 @@ https://www.cplusplus.com/
 [w7-213-2]: https://github.com/dsba-z/week7cpp2021/tree/213-2
 [w8-213-2]: https://github.com/dsba-z/week8cpp2021/tree/213-2
 [w9-213-2]: https://github.com/dsba-z/week9cpp2021-vector/tree/213-2
-[w10-213-2]: https://github.com/dsba-z/wee10cpp2021/tree/213-2
-[w11-213-2]: https://github.com/dsba-z/wee11cpp2021/tree/213-2
+[w10-213-2]: https://github.com/dsba-z/week10cpp2021/tree/213-2
+[w11-213-2]: https://github.com/dsba-z/week11cpp2021/tree/213-2
 [w11t-213-2]: https://github.com/dsba-z/week11cpp2021tests/tree/213-2
 [w12-213-2]: https://github.com/dsba-z/week11cpp2021/tree/213-2-w24
 [w13-213-2]: https://github.com/dsba-z/week13cpp2021/tree/213-2
