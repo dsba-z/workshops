@@ -32,7 +32,7 @@ A page with all the workshop materials for the Introduction to Programming cours
 | 12   | Function objects            | [Repository (problem 3)][w11]     | [Replit][r23-fo]  |  [212-2][w12-212-2]  | [213-1][w12-213-1]  | [213-2][w12-213-2]  | 
 | 13   | STL algorithms        | [Instructions][w13pdf] \| [Repo][w13]   | [Replit][r23-fo]  |  [212-2][w13-212-2]  | [213-1][w13-213-1]  | [213-2][w13-213-2]  |
 | 13.5 | Custom exceptions, inheritance|[Instructions][w135pdf] \| [Repo][w11]| [Replit][r23-fo]|[212-2][w135-212-2]| [213-1][w135-213-1] | [213-2][w135-213-2] |
-| 14   | STL algorithms, templates | [Instructions][w14pdf] \| [Repo][w13] | [Replit][r27-stl]| [212-2][w13-212-2]  | [213-1][w13-213-1]  | [213-2][w13-213-2]  |
+| 14   | STL algorithms, templates | [Instructions][w14pdf] [W28][w28pdf]\| [Repo][w13] | [Replit][r27-stl]| [212-2][w13-212-2]  | [213-1][w13-213-1]  | [213-2][w13-213-2]  |
 
 ## Using "repository" links
 
@@ -100,6 +100,8 @@ https://www.cplusplus.com/
 [w11t]: https://github.com/dsba-z/week11cpp2021tests
 [w13]: https://github.com/dsba-z/week13cpp2021
 [w14]: https://github.com/dsba-z/week14cpp2021
+
+[w28pdf]: https://github.com/dsba-z/week13cpp2021/blob/master/workshop28.pdf
 
 
 [w1-212-2]: https://github.com/dsba-z/week1cpp2021/tree/212-2
