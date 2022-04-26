@@ -33,7 +33,7 @@ A page with all the workshop materials for the Introduction to Programming cours
 | 13   | STL algorithms        | [Instructions][w13pdf] \| [Repo][w13]   | [Replit][r23-fo]  |  [212-2][w13-212-2]  | [213-1][w13-213-1]  | [213-2][w13-213-2]  |
 | 13.5 | Custom exceptions, inheritance|[Instructions][w135pdf] \| [Repo][w11]| [Replit][r23-fo]|[212-2][w135-212-2]| [213-1][w135-213-1] | [213-2][w135-213-2] |
 | 14   | STL algorithms, templates | [Instructions][w14pdf] [W28][w28pdf]\| [Repo][w13] | [Replit][r27-stl]| [212-2][w13-212-2]  | [213-1][w13-213-1]  | [213-2][w13-213-2]  |
-
+| 15   | Pointers. Intro to Qt |  [Repo][w15] | [Replit][r27-stl]| [212-2][w15-212-2]  | [213-1][w15-213-1]  | [213-2][w15-213-2]  |
 ## Using "repository" links
 
 There are two main ways how you can download a workshop project from GitHub
@@ -100,6 +100,7 @@ https://www.cplusplus.com/
 [w11t]: https://github.com/dsba-z/week11cpp2021tests
 [w13]: https://github.com/dsba-z/week13cpp2021
 [w14]: https://github.com/dsba-z/week14cpp2021
+[w15]: https://github.com/dsba-z/week15cpp2021
 
 [w28pdf]: https://github.com/dsba-z/week13cpp2021/blob/master/workshop28.pdf
 
@@ -120,6 +121,7 @@ https://www.cplusplus.com/
 [w13-212-2]: https://github.com/dsba-z/week13cpp2021/tree/212-2
 [w135-212-2]: https://github.com/dsba-z/week11cpp2021/tree/212-2-w26
 [w14-212-2]: https://github.com/dsba-z/week14cpp2021/tree/212-2
+[w15-212-2]: https://github.com/dsba-z/week15cpp2021/tree/212-2
 
 
 
@@ -139,6 +141,7 @@ https://www.cplusplus.com/
 [w13-213-1]: https://github.com/dsba-z/week13cpp2021/tree/213-1
 [w135-213-1]: https://github.com/dsba-z/week11cpp2021/tree/213-1-w26
 [w14-213-1]: https://github.com/dsba-z/week14cpp2021/tree/213-1
+[w15-213-1]: https://github.com/dsba-z/week15cpp2021/tree/213-1
 
 
 [w1-213-2]: https://github.com/dsba-z/week1cpp2021/tree/213-2
@@ -157,9 +160,10 @@ https://www.cplusplus.com/
 [w13-213-2]: https://github.com/dsba-z/week13cpp2021/tree/213-2
 [w135-213-2]: https://github.com/dsba-z/week11cpp2021/tree/213-2-w26
 [w14-213-2]: https://github.com/dsba-z/week14cpp2021/tree/213-2
+[w15-213-2]: https://github.com/dsba-z/week15cpp2021/tree/213-2
 
 [r24-bitwise]: https://replit.com/@l8doku/Workshop24BitwiseFunctions
 [r24-t]: https://replit.com/@l8doku/Workshop24BitwiseTests
 [r23-fo]: https://replit.com/@l8doku/Workshop23FunctionObjects
 [r27-stl]: https://replit.com/@l8doku/Workshop27STL
-
+[r27-inh]: https://replit.com/@l8doku/Workshop29Inheritance
