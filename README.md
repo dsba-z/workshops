@@ -35,7 +35,7 @@ A page with all the workshop materials for the Introduction to Programming cours
 | 14   | STL algorithms, templates | [Instructions][w14pdf] [W28][w28pdf]\| [Repo][w13] | [Replit][r27-stl]| [212-2][w13-212-2]  | [213-1][w13-213-1]  | [213-2][w13-213-2]  |
 | 15   | Pointers. Intro to Qt |  [Repo][w15] | [Replit][r27-stl]| [212-2][w15-212-2]  | [213-1][w15-213-1]  | [213-2][w15-213-2]  |
 | 15   | std::string_view. Intro to Qt |  [Repo][w155]                   |                   | [212-2][w155-212-2]  | [213-1][w155-213-1] | [213-2][w155-213-2] |
-| 16   | Intro to Qt                 |  [Repo][w16q]                   |                   | [212-2][w16q-212-2]  | [213-1][w16q-213-1] | [213-2][w16q-213-2] |
+| 16   | Intro to Qt                 |  [Repo][w16q]                   |  [Replit (empty)][rqt]  | [212-2][w16q-212-2]  | [213-1][w16q-213-1] | [213-2][w16q-213-2] |
 ## Using "repository" links
 
 There are two main ways how you can download a workshop project from GitHub
@@ -177,3 +177,5 @@ https://www.cplusplus.com/
 [r23-fo]: https://replit.com/@l8doku/Workshop23FunctionObjects
 [r27-stl]: https://replit.com/@l8doku/Workshop27STL
 [r27-inh]: https://replit.com/@l8doku/Workshop29Inheritance
+[rqt]: https://replit.com/@l8doku/QtCMakeHelloWorld
+
