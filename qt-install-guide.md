@@ -4,6 +4,17 @@ Qt online installer doesn't work with Russian IPs. Probably the easiest way to f
 
 Other than that, **alternative** methods are:
 
+## Use a package manager
+
+### MacOS
+
+Install Homebrew - https://brew.sh/
+
+Run `brew install qt` in Terminal.
+
+### Linux
+
+Use the package manager of your Linux distribution.
 ## Use Offline Installer
 
 Here is a list of official Qt mirrors. These install Qt 5.12.12, a slightly older version which should be fine for the project and the workshops.
@@ -34,19 +45,6 @@ https://ftp2.nluug.nl/languages/qt/archive/qt/5.12/5.12.12/qt-opensource-windows
 https://mirrors.ukfast.co.uk/sites/qt.io/archive/qt/5.12/5.12.12/qt-opensource-windows-x86-5.12.12.exe
 
 
-
-## Use a package manager
-
-### MacOS
-
-Install Homebrew - https://brew.sh/
-
-Run `brew install qt` in Terminal.
-
-
-## Linux
-
-Use the package manager of your Linux distribution.
 
 # Connecting Qt to Qt Creator.
 
