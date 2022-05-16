@@ -1,6 +1,8 @@
 A page with all the workshop materials for the Introduction to Programming course for groups 212-2, 213-1 and 213-2.
 
 -----
+
+[Qt installation](https://github.com/dsba-z/workshops/blob/master/qt-install-guide.md)
 # Contests
 
 | N | Link |
@@ -11,6 +13,7 @@ A page with all the workshop materials for the Introduction to Programming cours
 | 4 | https://official.contest.yandex.com/contest/36202 |
 | 5 | https://official.contest.yandex.com/contest/36759 |
 | 6 | https://official.contest.yandex.com/contest/37216 |
+| 7 (bonus) | https://official.contest.yandex.com/contest/37805 |
 
 # Workshops
 
