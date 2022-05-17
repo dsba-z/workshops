@@ -39,6 +39,8 @@ A page with all the workshop materials for the Introduction to Programming cours
 | 15   | Pointers. Intro to Qt |  [Repo][w15] | [Replit][r27-stl]| [212-2][w15-212-2]  | [213-1][w15-213-1]  | [213-2][w15-213-2]  |
 | 15   | std::string_view. Intro to Qt |  [Repo][w155]                   |                   | [212-2][w155-212-2]  | [213-1][w155-213-1] | [213-2][w155-213-2] |
 | 16   | Intro to Qt                 |  [Repo][w16q]                   |  [Replit (empty)][rqt]  | [212-2][w16q-212-2]  | [213-1][w16q-213-1] | [213-2][w16q-213-2] |
+| 16   | Qt signals and slots                 |  [Repo](https://github.com/dsba-z/week16cpp2021qt2)                   |   |   | | |
+
 ## Using "repository" links
 
 There are two main ways how you can download a workshop project from GitHub
