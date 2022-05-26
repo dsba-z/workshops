@@ -3,6 +3,8 @@ A page with all the workshop materials for the Introduction to Programming cours
 -----
 
 [Qt installation](https://github.com/dsba-z/workshops/blob/master/qt-install-guide.md)
+
+**Qt Designer** - https://build-system.fman.io/qt-designer-download
 # Contests
 
 | N | Link |
@@ -41,7 +43,7 @@ A page with all the workshop materials for the Introduction to Programming cours
 | 16   | Intro to Qt                 |  [Repo][w16q]                   |  [Replit (empty)][rqt]  | [212-2][w16q-212-2]  | [213-1][w16q-213-1] | [213-2][w16q-213-2] |
 | 16   | Qt signals and slots                 |  [Repo](https://github.com/dsba-z/week16cpp2021qt2)                   |   |   | | |
 | 17   | Qt. Abstract classes                 |  [Repo](https://github.com/dsba-z/week17cpp2021-abstract)                   |   |   | | |
-| 18   | Models | [Repo](https://github.com/dsba-z/week18cpp2021-modelview) | | | | |
+| 18   | Models | [Repo](https://github.com/dsba-z/week18cpp2021-modelview), [Solved](https://github.com/dsba-z/week18cpp2021-modelview) | | | | |
 
 ## Using "repository" links
 
