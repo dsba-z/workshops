@@ -44,6 +44,7 @@ A page with all the workshop materials for the Introduction to Programming cours
 | 16   | Qt signals and slots                 |  [Repo](https://github.com/dsba-z/week16cpp2021qt2)                   |   |   | | |
 | 17   | Qt. Abstract classes                 |  [Repo](https://github.com/dsba-z/week17cpp2021-abstract)                   |   |   | | |
 | 18   | Models | [Repo](https://github.com/dsba-z/week18cpp2021-modelview), [Solved](https://github.com/dsba-z/week18cpp2021-modelview/tree/solved) | | | | |
+| 21   | Safe Array | [Repo](https://github.com/dsba-z/week21cpp2021-safearray)| | | | |
 
 ## Using "repository" links
 
