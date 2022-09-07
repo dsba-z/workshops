@@ -10,6 +10,7 @@ A page with all the workshop materials for the Introduction to Programming cours
 
 # Workshops
 
+All public materials and information - https://drive.google.com/drive/folders/1Bf0GUUyr9CKYaN0_YV7urA-5rHWGmMOp
 
 | Week |           Topic             |       Online (Colab)       |     Download        |   221-1 Result       | 222-2 Result       |
 |------|-----------------------------|----------------------------|---------------------|----------------------|--------------------|
