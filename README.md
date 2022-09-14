@@ -20,6 +20,16 @@ All public materials and information - https://drive.google.com/drive/folders/1B
 | 2    | Numeral systems             |     [Colab][w2_num_colab]  | [Download][w2_num_dl]   |                      |                    | 
 | 2    | Conditions and loops        |     [Colab][w2_if_colab]   | [Download][w2_if_dl]    |                      |                    | 
 
+## Points
+
+You have comment access to these spreadsheets.  
+If there is a mistake or discrepancy, please submit a comment there.
+
+| Group | Link |
+|---|------|
+| 221-1 | https://docs.google.com/spreadsheets/d/1pDm5pkMTnfvrxfvwpoZlaRLNKfc4i2HQIh3_QKPg6V4/edit?usp=sharing |
+| 222-2 | https://docs.google.com/spreadsheets/d/1WbA4aTaWqT_baaN8CiEEkIb0UTLmVJp1ObLef4YSQxg/edit?usp=sharing |
+
 
 # Useful resources
 
