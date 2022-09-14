@@ -12,10 +12,11 @@ A page with all the workshop materials for the Introduction to Programming cours
 
 All public materials and information - https://drive.google.com/drive/folders/1Bf0GUUyr9CKYaN0_YV7urA-5rHWGmMOp
 
-| Week |           Topic             |       Online (Colab)       |     Download        |   221-1 Result       | 222-2 Result       |
-|------|-----------------------------|----------------------------|---------------------|----------------------|--------------------|
-| 1    | Introduction                |       [Colab][w1colab]     | [Download][w1dl]    |                      |                    | 
-| 2    | Numeral systems             |                            |                     |                      |                    | 
+| Week |           Topic             |       Online (Colab)       |     Download            |   221-1 Result       | 222-2 Result       |
+|------|-----------------------------|----------------------------|-------------------------|----------------------|--------------------|
+| 1    | Introduction                |      [Colab][w1colab]      | [Download][w1dl]        |                      |                    | 
+| 2    | Numeral systems             |     [Colab][w2_num_colab]  | [Download][w2_num_dl]   |                      |                    | 
+| 2    | Conditions and loops        |     [Colab][w2_if_colab]   | [Download][w2_if_dl]    |                      |                    | 
 
 
 # Useful resources
@@ -32,3 +33,9 @@ https://docs.python.org/3/
 
 [w1colab]: https://colab.research.google.com/drive/1-FiCxyZbSGnoJ26-DXDZo0jYAOiVFT4Y
 [w1dl]: https://drive.google.com/uc?export=download&id=1-FiCxyZbSGnoJ26-DXDZo0jYAOiVFT4Y
+
+[w2_num_colab]: https://colab.research.google.com/drive/1jR__YPqHxjtJJmyTQ5dfBooSo4_WXOqV
+[w2_num_dl]: https://drive.google.com/uc?export=download&id=1jR__YPqHxjtJJmyTQ5dfBooSo4_WXOqV
+
+[w2_if_colab]: https://colab.research.google.com/drive/19-MCsutJtb9NB7iFpmjMDjXXJIDEA86V
+[w2_if_dl]: https://drive.google.com/uc?export=download&id=19-MCsutJtb9NB7iFpmjMDjXXJIDEA86V
