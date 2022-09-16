@@ -14,22 +14,27 @@ A page with all the workshop materials for the Introduction to Programming cours
 
 All public materials and information - https://drive.google.com/drive/folders/1Bf0GUUyr9CKYaN0_YV7urA-5rHWGmMOp
 
-| Week |           Topic             |       Online (Colab)       |     Download            |   221-1 Result       | 222-2 Result       |
-|------|-----------------------------|----------------------------|-------------------------|----------------------|--------------------|
-| 1    | Introduction                |      [Colab][w1colab]      | [Download][w1dl]        |                      |                    | 
-| 2    | Numeral systems             |     [Colab][w2_num_colab]  | [Download][w2_num_dl]   |                      |                    | 
-| 2    | Conditions and loops        |     [Colab][w2_if_colab]   | [Download][w2_if_dl]    |                      |                    | 
+| Week |           Topic               |       Online (Colab)       |     Download                |   221-1 Result       | 222-2 Result       |
+|------|-------------------------------|----------------------------|-----------------------------|----------------------|--------------------|
+| 1    | Introduction                  |      [Colab][w1colab]      | [Download][w1dl]            |                      |                    | 
+| 2    | Numeral systems               |     [Colab][w2_num_colab]  | [Download][w2_num_dl]       |                      |                    | 
+| 2    | Conditions and loops          |     [Colab][w2_if_colab]   | [Download][w2_if_dl]        |                      |                    | 
+| 2    | *Argparse and Pilot Project*  | [Colab][w2_argparse_colab] | [Download][w2_argparse_dl]  |                      |                    | 
 
 ## Points
 
 You have comment access to these spreadsheets.  
 If there is a mistake or discrepancy, please submit a comment there.
 
-| Group | Link |
-|---|------|
-| 221-1 | https://docs.google.com/spreadsheets/d/1pDm5pkMTnfvrxfvwpoZlaRLNKfc4i2HQIh3_QKPg6V4/edit?usp=sharing |
-| 222-2 | https://docs.google.com/spreadsheets/d/1WbA4aTaWqT_baaN8CiEEkIb0UTLmVJp1ObLef4YSQxg/edit?usp=sharing |
+| Link |
+|-------------|
+| [221-1](https://docs.google.com/spreadsheets/d/1pDm5pkMTnfvrxfvwpoZlaRLNKfc4i2HQIh3_QKPg6V4/edit?usp=sharing) |
+| [222-2](https://docs.google.com/spreadsheets/d/1WbA4aTaWqT_baaN8CiEEkIb0UTLmVJp1ObLef4YSQxg/edit?usp=sharing) |
 
+
+Bonus project:
+
+https://github.com/dsba-z/pilot-project-2022
 
 # Useful resources
 
@@ -51,3 +56,6 @@ https://docs.python.org/3/
 
 [w2_if_colab]: https://colab.research.google.com/drive/19-MCsutJtb9NB7iFpmjMDjXXJIDEA86V
 [w2_if_dl]: https://drive.google.com/uc?export=download&id=19-MCsutJtb9NB7iFpmjMDjXXJIDEA86V
+
+[w2_argparse_colab]: https://colab.research.google.com/drive/1HoVq-X0k02z9Xz3v-XCQBGZ88rUKWW4B
+[w2_argparse_dl]: https://drive.google.com/uc?export=download&id=1HoVq-X0k02z9Xz3v-XCQBGZ88rUKWW4B
