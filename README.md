@@ -22,6 +22,7 @@ All public materials and information - https://drive.google.com/drive/folders/1B
 | 2    | Conditions and loops          |     [Colab][w2_if_colab]   | [Download][w2_if_dl]        |                      |                    | 
 | 2    | *Argparse and Pilot Project*  | [Colab][w2_argparse_colab] | [Download][w2_argparse_dl]  |                      |                    | 
 | 3    | Real numbers and strings      |     No Colab this time     | [Download][w3_strings_dl]   |                      |                    | 
+| 4    | Strings. Code style.          |     No Colab this time     | [Download][w3_strings2_dl]  |                      |                    | 
 
 ## Points
 
@@ -63,3 +64,4 @@ https://docs.python.org/3/
 [w2_argparse_dl]: https://drive.google.com/uc?export=download&id=1HoVq-X0k02z9Xz3v-XCQBGZ88rUKWW4B
 
 [w3_strings_dl]: https://drive.google.com/uc?export=download&id=12nN68oEluxw_8Ovrt5vmeBs4RO4zGFPQ
+[w3_strings2_dl]: https://drive.google.com/uc?export=download&id=15ol_KM4iOEc3KKasbNWpTx8kBYXaO6MZ
