@@ -24,8 +24,8 @@ All public materials and information - https://drive.google.com/drive/folders/1B
 | 2    | *Argparse and Pilot Project* |[Colab][w2_argparse_colab] | [Download][w2_argparse_dl] |                        |                           | 
 | 3    | Real numbers and strings     |    No Colab this time     |                            |                        | [Download][w3_strings_dl] | 
 | 3    | Strings. Code style.         |    No Colab this time     |                            |                        | [Download][w3_strings2_dl]| 
-| 4    | Lists. Tuples.               |      [Colab][w4_1_cl]     |  [Download][w4_1_dl]       | [Workshop 6][w4_1_r]   | [Download][w3_strings2_dl]| 
-| 4    | Tasks on lists.              |      [Colab][w4_2_cl]     |  [Download][w4_2_dl]       |                        | [Download][w3_strings2_dl]| 
+| 4    | Lists. Tuples.               |      [Colab][w4_1_cl]     |  [Download][w4_1_dl]       | [Workshop 6][w4_1_r]   | [Download][w4_py]         | 
+| 4    | Tasks on lists.              |      [Colab][w4_2_cl]     |  [Download][w4_2_dl]       |                        |                           | 
 
 ## Points
 
