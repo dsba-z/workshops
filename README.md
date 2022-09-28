@@ -16,14 +16,16 @@ A page with all the workshop materials for the Introduction to Programming cours
 
 All public materials and information - https://drive.google.com/drive/folders/1Bf0GUUyr9CKYaN0_YV7urA-5rHWGmMOp
 
-| Week |           Topic               |       Online (Colab)       |     Download                |   221-1 Result       | 222-2 Result       |
-|------|-------------------------------|----------------------------|-----------------------------|----------------------|--------------------|
-| 1    | Introduction                  |      [Colab][w1colab]      | [Download][w1dl]            |                      |                    | 
-| 2    | Numeral systems               |     [Colab][w2_num_colab]  | [Download][w2_num_dl]       |                      |                    | 
-| 2    | Conditions and loops          |     [Colab][w2_if_colab]   | [Download][w2_if_dl]        |                      |                    | 
-| 2    | *Argparse and Pilot Project*  | [Colab][w2_argparse_colab] | [Download][w2_argparse_dl]  |                      |                    | 
-| 3    | Real numbers and strings      |     No Colab this time     | [Download][w3_strings_dl]   |                      |                    | 
-| 4    | Strings. Code style.          |     No Colab this time     | [Download][w3_strings2_dl]  |                      |                    | 
+| Week |           Topic              |      Online (Colab)       |     Download Notebook      |  Online (Replit)       |   Download Project        |
+|------|------------------------------|---------------------------|----------------------------|------------------------|---------------------------|
+| 1    | Introduction                 |     [Colab][w1colab]      | [Download][w1dl]           |                        |                           | 
+| 2    | Numeral systems              |    [Colab][w2_num_colab]  | [Download][w2_num_dl]      |                        |                           | 
+| 2    | Conditions and loops         |    [Colab][w2_if_colab]   | [Download][w2_if_dl]       |                        |                           | 
+| 2    | *Argparse and Pilot Project* |[Colab][w2_argparse_colab] | [Download][w2_argparse_dl] |                        |                           | 
+| 3    | Real numbers and strings     |    No Colab this time     |                            |                        | [Download][w3_strings_dl] | 
+| 3    | Strings. Code style.         |    No Colab this time     |                            |                        | [Download][w3_strings2_dl]| 
+| 4    | Lists. Tuples.               |      [Colab][w4_1_cl]     |  [Download][w4_1_dl]       | [Workshop 6][w4_1_r]   | [Download][w3_strings2_dl]| 
+| 4    | Tasks on lists.              |      [Colab][w4_2_cl]     |  [Download][w4_2_dl]       |                        | [Download][w3_strings2_dl]| 
 
 ## Points
 
@@ -66,3 +68,13 @@ https://docs.python.org/3/
 
 [w3_strings_dl]: https://drive.google.com/uc?export=download&id=12nN68oEluxw_8Ovrt5vmeBs4RO4zGFPQ
 [w3_strings2_dl]: https://drive.google.com/uc?export=download&id=15ol_KM4iOEc3KKasbNWpTx8kBYXaO6MZ
+
+[w4_1_r]: https://replit.com/@l8doku/Workshop6lists
+
+[w4_1_cl]: https://colab.research.google.com/drive/1jDuF9WzkyIWy794z5fz9vJzh5cXD2E8R
+[w4_1_dl]: https://drive.google.com/uc?export=download&id=1jDuF9WzkyIWy794z5fz9vJzh5cXD2E8R
+
+[w4_2_cl]: https://colab.research.google.com/drive/1BG9zMmJyFZwMtetodpkgJaxH2-5x_65C
+[w4_2_dl]: https://drive.google.com/uc?export=download&id=1BG9zMmJyFZwMtetodpkgJaxH2-5x_65C
+
+[w4_py]: https://drive.google.com/uc?export=download&id=16iUYGLM0uYWUlktJE4aBM4gEoNRfIEsh
