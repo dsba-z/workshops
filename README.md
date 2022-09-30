@@ -26,7 +26,7 @@ All public materials and information - https://drive.google.com/drive/folders/1B
 | 5        | Strings. Code style.         |    No Colab this time     |                            |                        | [Download][w3_strings2_dl]| 
 | 6        | Lists. Tuples.               |      [Colab][w4_1_cl]     |  [Download][w4_1_dl]       | [Workshop 6][w4_1_r]   | [Download][w4_py]         | 
 | 6-7      | Tasks on lists.              |      [Colab][w4_2_cl]     |  [Download][w4_2_dl]       |                        |                           | 
-| 7*       | Extra task on lists.         |      No Colab             |                            |                        | [Download][w4_extra]      | 
+| 7*       | Extra task on lists.         |      No Colab             |                            |                        | [Download][w4_extra] | [New tests][w4_newtest]     | 
 
 ## Points
 
@@ -81,3 +81,4 @@ https://docs.python.org/3/
 [w4_py]: https://drive.google.com/uc?export=download&id=1Z1xF3ClSJ3D0mTBZvgB4HB93bzidiYn9
 
 [w4_extra]: https://drive.google.com/uc?export=download&id=1PmqjH-HoI7B7sQH35dAza0jE1p1dRxFa
+[w4_newtest]: https://drive.google.com/uc?export=download&id=1sJpej6wM5BGSfaxKRYYf_QHnIqIgZw7V
