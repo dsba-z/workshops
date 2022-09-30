@@ -16,17 +16,17 @@ A page with all the workshop materials for the Introduction to Programming cours
 
 All public materials and information - https://drive.google.com/drive/folders/1Bf0GUUyr9CKYaN0_YV7urA-5rHWGmMOp
 
-| Week |           Topic              |      Online (Colab)       |     Download Notebook      |  Online (Replit)       |   Download Project        |
-|------|------------------------------|---------------------------|----------------------------|------------------------|---------------------------|
-| 1    | Introduction                 |     [Colab][w1colab]      | [Download][w1dl]           |                        |                           | 
-| 2    | Numeral systems              |    [Colab][w2_num_colab]  | [Download][w2_num_dl]      |                        |                           | 
-| 2    | Conditions and loops         |    [Colab][w2_if_colab]   | [Download][w2_if_dl]       |                        |                           | 
-| 2    | *Argparse and Pilot Project* |[Colab][w2_argparse_colab] | [Download][w2_argparse_dl] |                        |                           | 
-| 3    | Real numbers and strings     |    No Colab this time     |                            |                        | [Download][w3_strings_dl] | 
-| 3    | Strings. Code style.         |    No Colab this time     |                            |                        | [Download][w3_strings2_dl]| 
-| 4    | Lists. Tuples.               |      [Colab][w4_1_cl]     |  [Download][w4_1_dl]       | [Workshop 6][w4_1_r]   | [Download][w4_py]         | 
-| 4    | Tasks on lists.              |      [Colab][w4_2_cl]     |  [Download][w4_2_dl]       |                        |                           | 
-| 4    | Tasks on lists.              |      No Colab             |                            |                        | [Download][w4_extra]      | 
+| Workshop |           Topic              |      Online (Colab)       |     Download Notebook      |  Online (Replit)       |   Download Project        |
+|----------|------------------------------|---------------------------|----------------------------|------------------------|---------------------------|
+| 1        | Introduction                 |     [Colab][w1colab]      | [Download][w1dl]           |                        |                           | 
+| 2        | Numeral systems              |    [Colab][w2_num_colab]  | [Download][w2_num_dl]      |                        |                           | 
+| 3        | Conditions and loops         |    [Colab][w2_if_colab]   | [Download][w2_if_dl]       |                        |                           | 
+| 3        | *Argparse and Pilot Project* |[Colab][w2_argparse_colab] | [Download][w2_argparse_dl] |                        |                           | 
+| 4        | Real numbers and strings     |    No Colab this time     |                            |                        | [Download][w3_strings_dl] | 
+| 5        | Strings. Code style.         |    No Colab this time     |                            |                        | [Download][w3_strings2_dl]| 
+| 6        | Lists. Tuples.               |      [Colab][w4_1_cl]     |  [Download][w4_1_dl]       | [Workshop 6][w4_1_r]   | [Download][w4_py]         | 
+| 6-7      | Tasks on lists.              |      [Colab][w4_2_cl]     |  [Download][w4_2_dl]       |                        |                           | 
+| 7*       | Extra task on lists.         |      No Colab             |                            |                        | [Download][w4_extra]      | 
 
 ## Points
 
