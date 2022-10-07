@@ -28,8 +28,8 @@ All public materials and information - https://drive.google.com/drive/folders/1B
 | 6        | Lists. Tuples.               |      [Colab][w4_1_cl]     |  [Download][w4_1_dl]       | [Workshop 6][w4_1_r]   | [Download][w4_py]         | 
 | 6-7      | Tasks on lists.              |      [Colab][w4_2_cl]     |  [Download][w4_2_dl]       |                        |                           | 
 | 7*       | Extra task on lists.         |      No Colab             |                            |                        | [Download][w4_extra] \| [New tests][w4_newtest]     | 
-| 8        | Functions, recursion.        |      No Colab             |                            |  [Replit multi][w8_r]  | [Download][w8]            | 
-
+| 8-9      | Functions, recursion.        |      No Colab             |                            |  [Replit multi][w8_r]  | [Download][w8]             | 
+| 9*       | GitHub, Extra problems.      |      No Colab             |                            |                        | [Download][w9p]            | 
 
 ## Points
 
@@ -88,3 +88,5 @@ https://docs.python.org/3/
 
 [w8]: https://drive.google.com/uc?export=download&id=114DyMpuwLIDkPTAiVDJjxz1UYqUX0Mo9
 [w8_r]: https://replit.com/join/nbutkccbri-l8doku
+
+[w9p]: https://drive.google.com/uc?export=download&id=1yEXZ4g3xWXTiLF_aoJRwb1ESckw4PUVY
