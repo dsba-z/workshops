@@ -30,6 +30,8 @@ All public materials and information - https://drive.google.com/drive/folders/1B
 | 7*       | Extra task on lists.         |      No Colab             |                            |                        | [Download][w4_extra] \| [New tests][w4_newtest]     | 
 | 8-9      | Functions, recursion.        |      No Colab             |                            |  [Replit multi][w8_r]  | [Download][w8]             | 
 | 9*       | GitHub, Extra problems.      |      No Colab             |                            |                        | [Download][w9p]            | 
+| 10       | Sets and dictionaries        |      [Colab][w10c]        | [Notebook][w10], [PDF][w10pdf] |                    |                           | 
+| 10-11    | Sets and dictionaries (tasks)|      [Colab][w11c]        | [Notebook][w11], [PDF][w11pdf] |                    |                           | 
 
 ## Points
 
@@ -90,3 +92,10 @@ https://docs.python.org/3/
 [w8_r]: https://replit.com/join/nbutkccbri-l8doku
 
 [w9p]: https://drive.google.com/uc?export=download&id=13xWL_xoV8q9vVvqglngJ-
+
+[w10]: https://drive.google.com/uc?export=download&id=1c2iuUYXmLKUrbqM1viaBDHevZhl-tuTW
+[w10c]: https://colab.research.google.com/drive/1c2iuUYXmLKUrbqM1viaBDHevZhl-tuTW
+[w10pdf]: https://drive.google.com/uc?export=download&id=12WzXNCpGYW1TZwENFmVQbeV5UT8qpr0r
+[w11]: https://drive.google.com/uc?export=download&id=1_-1t7Y9U4AYp2qB_Ha2n5a-3U-iB8im3
+[w11c]: https://colab.research.google.com/drive/1_-1t7Y9U4AYp2qB_Ha2n5a-3U-iB8im3
+[w11pdf]: https://drive.google.com/uc?export=download&id=1CLYuwDXxYdm7Z2ln7rxRvtFMd1B9wgE0
