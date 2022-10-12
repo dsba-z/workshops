@@ -10,6 +10,8 @@ A page with all the workshop materials for the Introduction to Programming cours
 | 2 | https://official.contest.yandex.com/contest/40477 |
 | 3 | https://official.contest.yandex.com/contest/40724 |
 | 4 | https://official.contest.yandex.com/contest/40911 |
+| 5 | https://official.contest.yandex.com/contest/41144 |
+
 
 # Workshops
 
