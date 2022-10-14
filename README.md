@@ -30,12 +30,13 @@ All public materials and information - https://drive.google.com/drive/folders/1B
 | 6        | Lists. Tuples.               |      [Colab][w4_1_cl]     |  [Download][w4_1_dl]       | [Workshop 6][w4_1_r]   | [Download][w4_py]         | 
 | 6-7      | Tasks on lists.              |      [Colab][w4_2_cl]     |  [Download][w4_2_dl]       |                        |                           | 
 | 7*       | Extra task on lists.         |      No Colab             |                            |                        | [Download][w4_extra] \| [New tests][w4_newtest]     | 
-| 8-9      | Functions, recursion.        |      No Colab             |                            |  [Replit multi][w8_r]  | [Download][w8]             | 
-| 9*       | GitHub, Extra problems.      |      No Colab             |                            |                        | [Download][w9p]            | 
+| 8-9      | Functions, recursion.        |      No Colab             |                            |  [Replit multi][w8_r]  | [Download][w8]            | 
+| 9*       | GitHub, Extra problems.      |      No Colab             |                            |                        | [Download][w9p]           | 
 | 10       | Sets and dictionaries        |      [Colab][w10c]        | [Notebook][w10], [PDF][w10pdf] |                    |                           | 
 | 10-11    | Sets and dictionaries (tasks)|      [Colab][w11c]        | [Notebook][w11], [PDF][w11pdf] |                    |                           | 
-| 10       | Extra tasks                  |             | [PDF](https://drive.google.com/file/d/1nweMX3w019ihoTox_7VHzXgHTqCXUr2V/view?usp=sharing) [ipynb](https://drive.google.com/uc?export=download&id=1dsGSrWK4Cldp6hAnVTNOGwklCQui9Qzt) |                    |                           | 
-
+| 10*      | Extra tasks                  |                           | [PDF][w10e] [ipynb][w10ei] |                        |                           | 
+| 11-12    | Files and exceptions         |      [Colab][w12c]        | [PDF][w12pdf] [ipynb][w12i]|                        |                           | 
+| 11*      | Task with files              |                           |                            |                        |   [Download][w11pil]      | 
 
 ## Points
 
@@ -103,3 +104,12 @@ https://docs.python.org/3/
 [w11]: https://drive.google.com/uc?export=download&id=1_-1t7Y9U4AYp2qB_Ha2n5a-3U-iB8im3
 [w11c]: https://colab.research.google.com/drive/1_-1t7Y9U4AYp2qB_Ha2n5a-3U-iB8im3
 [w11pdf]: https://drive.google.com/uc?export=download&id=1CLYuwDXxYdm7Z2ln7rxRvtFMd1B9wgE0
+
+[w10ep]: https://drive.google.com/file/d/1nweMX3w019ihoTox_7VHzXgHTqCXUr2V/view?usp=sharing
+[w10ei]: https://drive.google.com/uc?export=download&id=1dsGSrWK4Cldp6hAnVTNOGwklCQui9Qzt
+
+[w12pdf]: https://drive.google.com/uc?export=download&id=1CcBRDldXrdsviT5fxt15MzLpLnB1lPnQ
+[w12c]: https://colab.research.google.com/drive/1NFhpUAsBaQjQxxxgfzWG8mmL1ru1c1a0
+[w12i]: https://drive.google.com/uc?export=download&id=1NFhpUAsBaQjQxxxgfzWG8mmL1ru1c1a0
+
+[w11pil]: https://drive.google.com/uc?export=download&id=1LwA0Wh5OKItr-QUolH_uO2pqBoS2R1Yh
