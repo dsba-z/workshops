@@ -34,7 +34,7 @@ All public materials and information - https://drive.google.com/drive/folders/1B
 | 9*       | GitHub, Extra problems.      |      No Colab             |                            |                        | [Download][w9p]           | 
 | 10       | Sets and dictionaries        |      [Colab][w10c]        | [Notebook][w10], [PDF][w10pdf] |                    |                           | 
 | 10-11    | Sets and dictionaries (tasks)|      [Colab][w11c]        | [Notebook][w11], [PDF][w11pdf] |                    |                           | 
-| 10*      | Extra tasks                  |                           | [PDF][w10e] [ipynb][w10ei] |                        |                           | 
+| 10*      | Extra tasks                  |                           | [PDF][w10ep] [ipynb][w10ei] |                        |                           | 
 | 11-12    | Files and exceptions         |      [Colab][w12c]        | [PDF][w12pdf] [ipynb][w12i]|                        |                           | 
 | 11*      | Task with files              |                           |                            |                        |   [Download][w11pil]      | 
 
