@@ -19,24 +19,25 @@ A page with all the workshop materials for the Introduction to Programming cours
 
 All public materials and information - https://drive.google.com/drive/folders/1Bf0GUUyr9CKYaN0_YV7urA-5rHWGmMOp
 
-| Workshop |           Topic              |      Online (Colab)       |     Download Notebook      |  Online (Replit)       |   Download Project        |
-|----------|------------------------------|---------------------------|----------------------------|------------------------|---------------------------|
-| 1        | Introduction                 |     [Colab][w1colab]      | [Download][w1dl]           |                        |                           | 
-| 2        | Numeral systems              |    [Colab][w2_num_colab]  | [Download][w2_num_dl]      |                        |                           | 
-| 3        | Conditions and loops         |    [Colab][w2_if_colab]   | [Download][w2_if_dl]       |                        |                           | 
-| 3        | *Argparse and Pilot Project* |[Colab][w2_argparse_colab] | [Download][w2_argparse_dl] |                        |                           | 
-| 4        | Real numbers and strings     |    No Colab this time     |                            |                        | [Download][w3_strings_dl] | 
-| 5        | Strings. Code style.         |    No Colab this time     |                            |                        | [Download][w3_strings2_dl]| 
-| 6        | Lists. Tuples.               |      [Colab][w4_1_cl]     |  [Download][w4_1_dl]       | [Workshop 6][w4_1_r]   | [Download][w4_py]         | 
-| 6-7      | Tasks on lists.              |      [Colab][w4_2_cl]     |  [Download][w4_2_dl]       |                        |                           | 
-| 7*       | Extra task on lists.         |      No Colab             |                            |                        | [Download][w4_extra] \| [New tests][w4_newtest]     | 
-| 8-9      | Functions, recursion.        |      No Colab             |                            |  [Replit multi][w8_r]  | [Download][w8]            | 
-| 9*       | GitHub, Extra problems.      |      No Colab             |                            |                        | [Download][w9p]           | 
-| 10       | Sets and dictionaries        |      [Colab][w10c]        | [Notebook][w10], [PDF][w10pdf] |                    |                           | 
-| 10-11    | Sets and dictionaries (tasks)|      [Colab][w11c]        | [Notebook][w11], [PDF][w11pdf] |                    |                           | 
-| 10*      | Extra tasks                  |                           | [PDF][w10ep] [ipynb][w10ei] |                        |                           | 
-| 11-12    | Files and exceptions         |      [Colab][w12c]        | [PDF][w12pdf] [ipynb][w12i]|                        |                           | 
-| 11*      | Task with files              |                           |                            |                        |   [Download][w11pil]      | 
+
+| Workshop |  Date |           Topic              |      Online (Colab)       |     Download                                  |  Online (Replit)       |
+|----------|-------|------------------------------|---------------------------|-----------------------------------------------|------------------------|
+| 1        | 07.09 | Introduction                 |     [Colab][w1colab]      | [Notebook][w1dl]                              |                        | 
+| 2        | 14.09 | Numeral systems              |    [Colab][w2_num_colab]  | [Notebook][w2_num_dl]                         |                        | 
+| 3        | 16.09 | Conditions and loops         |    [Colab][w2_if_colab]   | [Notebook][w2_if_dl]                          |                        | 
+| 3        | 16.09 | *Argparse and Pilot Project* |[Colab][w2_argparse_colab] | [Notebook][w2_argparse_dl]                    |                        | 
+| 4        | 21.09 | Real numbers and strings     |    No Colab this time     | [Archive][w3_strings_dl]                      |                        | 
+| 5        | 23.09 | Strings. Code style.         |    No Colab this time     | [Archive][w3_strings2_dl]                     |                        | 
+| 6        | 28.09 | Lists. Tuples.               |      [Colab][w4_1_cl]     | [Notebook][w4_1_dl], [Archive][w4_py]         | [Workshop 6][w4_1_r]   |
+| 6-7      | 30.09 | Tasks on lists.              |      [Colab][w4_2_cl]     | [Notebook][w4_2_dl]                           |                        |
+| 7*       | 30.09 | Extra task on lists.         |      No Colab             | [Archive][w4_extra], [New tests][w4_newtest]  |                        | 
+| 8-9      | 05.10 | Functions, recursion.        |      No Colab             | [Archive][w8]                                 |  [Replit multi][w8_r]  |
+| 9*       | 07.10 | GitHub, Extra problems.      |      No Colab             | [Archive][w9p]                                |                        |
+| 10       | 12.10 | Sets and dictionaries        |      [Colab][w10c]        | [Notebook][w10], [PDF][w10pdf]                |                        | 
+| 10-11    | 12.10 | Sets and dictionaries (tasks)|      [Colab][w11c]        | [Notebook][w11], [PDF][w11pdf]                |                        | 
+| 10*      | 12.10 | Extra tasks                  |                           | [Notebook][w10ei], [PDF][w10ep]               |                        | 
+| 11-12    | 14.10 | Files and exceptions         |      [Colab][w12c]        | [Notebook][w12i], [PDF][w12pdf]               |                        | 
+| 11*      | 14.10 | Task with files              |                           | [Archive][w11pil]                             |                        |
 
 ## Points
 
