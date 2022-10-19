@@ -36,8 +36,10 @@ All public materials and information - https://drive.google.com/drive/folders/1B
 | 10       | 12.10 | Sets and dictionaries        |      [Colab][w10c]        | [Notebook][w10], [PDF][w10pdf]                |                        | 
 | 10-11    | 12.10 | Sets and dictionaries (tasks)|      [Colab][w11c]        | [Notebook][w11], [PDF][w11pdf]                |                        | 
 | 10*      | 12.10 | Extra tasks                  |                           | [Notebook][w10ei], [PDF][w10ep]               |                        | 
-| 11-12    | 14.10 | Files and exceptions         |      [Colab][w12c]        | [Notebook][w12i], [PDF][w12pdf]               |                        | 
-| 11*      | 14.10 | Task with files              |                           | [Archive][w11pil]                             |                        |
+| 11*      | 14.10 | Task with files              |                           | [Archive][w11pil]                             |                        | 
+| 12       | 19.10 | **Files and exceptions**     |      [Colab][w12c]        | [Notebook][w12i], [PDF][w12pdf]               |                        | 
+| 12       | 19.10 | **File system**              |      [Colab][w12_2c]      | [Notebook][w12_2i], [PDF][w12_2pdf]           |                        |
+| 13       | 21.10 | **Code reading**             |      [Colab][w13c]        | [Notebook][w13i], [PDF][w13pdf]               |                        |
 
 ## Points
 
@@ -114,3 +116,11 @@ https://docs.python.org/3/
 [w12i]: https://drive.google.com/uc?export=download&id=1NFhpUAsBaQjQxxxgfzWG8mmL1ru1c1a0
 
 [w11pil]: https://drive.google.com/uc?export=download&id=1LwA0Wh5OKItr-QUolH_uO2pqBoS2R1Yh
+
+[w12_2c]: https://colab.research.google.com/drive/15Ose0T4UpzhvQL6WdZVbL8cx4lhh9cQr
+[w12_2i]: https://drive.google.com/uc?export=download&id=15Ose0T4UpzhvQL6WdZVbL8cx4lhh9cQr
+[w12_2p]: https://drive.google.com/uc?export=download&id=1bK8bebnQ1PKYMoX5R_Tk3sgs8aPaq_RH
+
+[w13c]: https://colab.research.google.com/drive/1VSxYW9JKw4MRzT5cfSHuWI9wVahYmBNG
+[w13i]: https://drive.google.com/uc?export=download&id=1VSxYW9JKw4MRzT5cfSHuWI9wVahYmBNG
+[w13p]: https://drive.google.com/uc?export=download&id=1VYxoURvsfAmZwtwJxfNtyculaQIXQKjH
