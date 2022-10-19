@@ -37,9 +37,9 @@ All public materials and information - https://drive.google.com/drive/folders/1B
 | 10-11    | 12.10 | Sets and dictionaries (tasks)|      [Colab][w11c]        | [Notebook][w11], [PDF][w11pdf]                |                        | 
 | 10*      | 12.10 | Extra tasks                  |                           | [Notebook][w10ei], [PDF][w10ep]               |                        | 
 | 11*      | 14.10 | Task with files              |                           | [Archive][w11pil]                             |                        | 
-| 12       | 19.10 | **Files and exceptions**     |      [Colab][w12c]        | [Notebook][w12i], [PDF][w12pdf]               |                        | 
-| 12       | 19.10 | **File system**              |      [Colab][w12_2c]      | [Notebook][w12_2i], [PDF][w12_2pdf]           |                        |
-| 13       | 21.10 | **Code reading**             |      [Colab][w13c]        | [Notebook][w13i], [PDF][w13pdf]               |                        |
+| 12       | 19.10 | **Files and exceptions**     |      [Colab][w12c]        | [Notebook][w12i], [PDF][w12p]               |                        | 
+| 12       | 19.10 | **File system**              |      [Colab][w12_2c]      | [Notebook][w12_2i], [PDF][w12_2p]           |                        |
+| 13       | 21.10 | **Code reading**             |      [Colab][w13c]        | [Notebook][w13i], [PDF][w13p]               |                        |
 
 ## Points
 
@@ -111,7 +111,7 @@ https://docs.python.org/3/
 [w10ep]: https://drive.google.com/file/d/1nweMX3w019ihoTox_7VHzXgHTqCXUr2V/view?usp=sharing
 [w10ei]: https://drive.google.com/uc?export=download&id=1dsGSrWK4Cldp6hAnVTNOGwklCQui9Qzt
 
-[w12pdf]: https://drive.google.com/uc?export=download&id=1CcBRDldXrdsviT5fxt15MzLpLnB1lPnQ
+[w12p]: https://drive.google.com/uc?export=download&id=1CcBRDldXrdsviT5fxt15MzLpLnB1lPnQ
 [w12c]: https://colab.research.google.com/drive/1NFhpUAsBaQjQxxxgfzWG8mmL1ru1c1a0
 [w12i]: https://drive.google.com/uc?export=download&id=1NFhpUAsBaQjQxxxgfzWG8mmL1ru1c1a0
 
