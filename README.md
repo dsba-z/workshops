@@ -11,6 +11,7 @@ A page with all the workshop materials for the Introduction to Programming cours
 | 3 | https://official.contest.yandex.com/contest/40724 |
 | 4 | https://official.contest.yandex.com/contest/40911 |
 | 5 | https://official.contest.yandex.com/contest/41144 |
+| 6 | https://official.contest.yandex.com/contest/42282 |
 
 
 # Workshops
@@ -37,10 +38,11 @@ All public materials and information - https://drive.google.com/drive/folders/1B
 | 10-11    | 12.10 | Sets and dictionaries (tasks)|      [Colab][w11c]        | [Notebook][w11], [PDF][w11pdf]                |                        | 
 | 10*      | 12.10 | Extra tasks                  |                           | [Notebook][w10ei], [PDF][w10ep]               |                        | 
 | 11*      | 14.10 | Task with files              |                           | [Archive][w11pil]                             |                        | 
-| 12       | 19.10 | **Files and exceptions**     |      [Colab][w12c]        | [Notebook][w12i], [PDF][w12p]               |                        | 
-| 12       | 19.10 | **File system**              |      [Colab][w12_2c]      | [Notebook][w12_2i], [PDF][w12_2p]           |                        |
-| 13       | 21.10 | **Code reading**             |      [Colab][w13c]        | [Notebook][w13i], [PDF][w13p]               |                        |
-
+| 12       | 19.10 | Files and exceptions         |      [Colab][w12c]        | [Notebook][w12i], [PDF][w12p]               |                        | 
+| 12       | 19.10 | File system                  |      [Colab][w12_2c]      | [Notebook][w12_2i], [PDF][w12_2p]           |                        |
+| 13       | 21.10 | Code reading                 |      [Colab][w13c]        | [Notebook][w13i], [PDF][w13p]               |                        |
+| 13       | 02.11 | Sort and search              |      No Colab             | [Archive][w14d]                             | [Replit multi][w14r]   |
+w14d
 ## Points
 
 You have comment access to these spreadsheets.  
@@ -124,3 +126,7 @@ https://docs.python.org/3/
 [w13c]: https://colab.research.google.com/drive/1VSxYW9JKw4MRzT5cfSHuWI9wVahYmBNG
 [w13i]: https://drive.google.com/uc?export=download&id=1VSxYW9JKw4MRzT5cfSHuWI9wVahYmBNG
 [w13p]: https://drive.google.com/uc?export=download&id=1VYxoURvsfAmZwtwJxfNtyculaQIXQKjH
+
+[w14d]: https://drive.google.com/uc?export=download&id=1biBvih5DSA03cg6FOtH_meF27ng_KJGX
+[w14r]: https://replit.com/join/ahazvzfuoa-l8doku
+
