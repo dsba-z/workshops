@@ -38,11 +38,12 @@ All public materials and information - https://drive.google.com/drive/folders/1B
 | 10-11    | 12.10 | Sets and dictionaries (tasks)|      [Colab][w11c]        | [Notebook][w11], [PDF][w11pdf]                |                        | 
 | 10*      | 12.10 | Extra tasks                  |                           | [Notebook][w10ei], [PDF][w10ep]               |                        | 
 | 11*      | 14.10 | Task with files              |                           | [Archive][w11pil]                             |                        | 
-| 12       | 19.10 | Files and exceptions         |      [Colab][w12c]        | [Notebook][w12i], [PDF][w12p]               |                        | 
-| 12       | 19.10 | File system                  |      [Colab][w12_2c]      | [Notebook][w12_2i], [PDF][w12_2p]           |                        |
-| 13       | 21.10 | Code reading                 |      [Colab][w13c]        | [Notebook][w13i], [PDF][w13p]               |                        |
-| 13       | 02.11 | Sort and search              |      No Colab             | [Archive][w14d]                             | [Replit multi][w14r]   |
-w14d
+| 12       | 19.10 | Files and exceptions         |      [Colab][w12c]        | [Notebook][w12i], [PDF][w12p]                 |                        | 
+| 12       | 19.10 | File system                  |      [Colab][w12_2c]      | [Notebook][w12_2i], [PDF][w12_2p]             |                        |
+| 13       | 21.10 | Code reading                 |      [Colab][w13c]        | [Notebook][w13i], [PDF][w13p]                 |                        |
+| 14       | 02.11 | **Sort and search**          |      No Colab             | [Archive][w14d]                               | [Replit multi][w14r]   |
+| 15       | 07.11 | **venv, numpy**              |      [Colab][w15c]        | [Archive][w15d]                               |                        |
+
 ## Points
 
 You have comment access to these spreadsheets.  
@@ -130,3 +131,6 @@ https://docs.python.org/3/
 [w14d]: https://drive.google.com/uc?export=download&id=1biBvih5DSA03cg6FOtH_meF27ng_KJGX
 [w14r]: https://replit.com/join/ahazvzfuoa-l8doku
 
+
+[w15c]: https://colab.research.google.com/drive/1fSIDp4dxOWh_vT32QZJZ1riZOYfxEmRF
+[w15d]: https://drive.google.com/uc?export=download&id=1fSIDp4dxOWh_vT32QZJZ1riZOYfxEmRF
