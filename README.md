@@ -41,8 +41,10 @@ All public materials and information - https://drive.google.com/drive/folders/1B
 | 12       | 19.10 | Files and exceptions         |      [Colab][w12c]        | [Notebook][w12i], [PDF][w12p]                 |                        | 
 | 12       | 19.10 | File system                  |      [Colab][w12_2c]      | [Notebook][w12_2i], [PDF][w12_2p]             |                        |
 | 13       | 21.10 | Code reading                 |      [Colab][w13c]        | [Notebook][w13i], [PDF][w13p]                 |                        |
-| 14       | 02.11 | **Sort and search**          |      No Colab             | [Archive][w14d]                               | [Replit multi][w14r]   |
-| 15       | 07.11 | **venv, numpy**              |      [Colab][w15c]        | [Archive][w15d]                               |                        |
+| 14       | 02.11 | Sort and search              |      No Colab             | [Archive][w14d]                               | [Replit multi][w14r]   |
+| 15       | 07.11 | venv, numpy                  |      [Colab][w15c]        | [Archive][w15d]                               |                        |
+| 16       | 09.11 | **venv, Numpy (222-2)**      |                           | [Archive][w16d_np]                            |                        |
+| 16       | 09.11 | **Pandas, visuals (221-1**   |                           | [Archive][w16d_p]                             |                        |
 
 ## Points
 
@@ -131,6 +133,8 @@ https://docs.python.org/3/
 [w14d]: https://drive.google.com/uc?export=download&id=1biBvih5DSA03cg6FOtH_meF27ng_KJGX
 [w14r]: https://replit.com/join/ahazvzfuoa-l8doku
 
-
 [w15c]: https://colab.research.google.com/drive/1fSIDp4dxOWh_vT32QZJZ1riZOYfxEmRF
 [w15d]: https://drive.google.com/uc?export=download&id=1fSIDp4dxOWh_vT32QZJZ1riZOYfxEmRF
+
+[w16d_np]: https://drive.google.com/uc?export=download&id=1Fz8uwxrFl5rcsxM6dx_w174METtOxJ_-F
+[w16d_p]: https://drive.google.com/uc?export=download&id=1IMcCyhf0xt2UbMZ3r5EZHC0ROkh5I4qd
