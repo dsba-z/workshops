@@ -44,7 +44,7 @@ All public materials and information - https://drive.google.com/drive/folders/1B
 | 14       | 02.11 | Sort and search              |      No Colab             | [Archive][w14d]                               | [Replit multi][w14r]   |
 | 15       | 07.11 | venv, numpy                  |      [Colab][w15c]        | [Archive][w15d]                               |                        |
 | 16       | 09.11 | **venv, Numpy (222-2)**      |                           | [Archive][w16d_np]                            |                        |
-| 16       | 09.11 | **Pandas, visuals (221-1**   |                           | [Archive][w16d_p]                             |                        |
+| 16       | 09.11 | **Pandas, visuals (221-1)**   |                           | [Archive][w16d_p]                             |                        |
 
 ## Points
 
