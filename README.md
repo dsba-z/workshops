@@ -136,5 +136,5 @@ https://docs.python.org/3/
 [w15c]: https://colab.research.google.com/drive/1fSIDp4dxOWh_vT32QZJZ1riZOYfxEmRF
 [w15d]: https://drive.google.com/uc?export=download&id=1fSIDp4dxOWh_vT32QZJZ1riZOYfxEmRF
 
-[w16d_np]: https://drive.google.com/uc?export=download&id=1Fz8uwxrFl5rcsxM6dx_w174METtOxJ_-F
+[w16d_np]: https://drive.google.com/uc?export=download&id=1Fz8uwxrFl5rcsxM6dx_w174METtOxJ_-
 [w16d_p]: https://drive.google.com/uc?export=download&id=1IMcCyhf0xt2UbMZ3r5EZHC0ROkh5I4qd
