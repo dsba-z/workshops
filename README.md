@@ -43,8 +43,9 @@ All public materials and information - https://drive.google.com/drive/folders/1B
 | 13       | 21.10 | Code reading                 |      [Colab][w13c]        | [Notebook][w13i], [PDF][w13p]                 |                        |
 | 14       | 02.11 | Sort and search              |      No Colab             | [Archive][w14d]                               | [Replit multi][w14r]   |
 | 15       | 07.11 | venv, numpy                  |      [Colab][w15c]        | [Archive][w15d]                               |                        |
-| 16       | 09.11 | **venv, Numpy (222-2)**      |                           | [Archive][w16d_np]                            |                        |
-| 16       | 09.11 | **Pandas, visuals (221-1)**   |                           | [Archive][w16d_p]                             |                        |
+| 16       | 09.11 | venv, Numpy (222-2)          |                           | [Archive][w16d_np]                            |                        |
+| 16       | 09.11 | Pandas, visuals (221-1)      |                           | [Archive][w16d_p]                             |                        |
+| 17       | 11.11 | **Titanic example (221-1)**  |                           | [Archive][w17d_p]                             |                        |
 
 ## Points
 
@@ -138,3 +139,5 @@ https://docs.python.org/3/
 
 [w16d_np]: https://drive.google.com/uc?export=download&id=1Fz8uwxrFl5rcsxM6dx_w174METtOxJ_-
 [w16d_p]: https://drive.google.com/uc?export=download&id=1IMcCyhf0xt2UbMZ3r5EZHC0ROkh5I4qd
+
+[w17d_p]: https://drive.google.com/uc?export=download&id=1hdMP4_tYhjhXgvgDhcYXHJiuBUeTWort
