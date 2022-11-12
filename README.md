@@ -46,6 +46,7 @@ All public materials and information - https://drive.google.com/drive/folders/1B
 | 16       | 09.11 | venv, Numpy (222-2)          |                           | [Archive][w16d_np]                            |                        |
 | 16       | 09.11 | Pandas, visuals (221-1)      |                           | [Archive][w16d_p]                             |                        |
 | 17       | 11.11 | **Titanic example (221-1)**  |                           | [Archive][w17d_p]                             |                        |
+| 17       | 12.11 | **Pandas, visuals (222-2)**  |                           | [Archive][w17d_np]                            |                        |
 
 ## Points
 
@@ -141,3 +142,6 @@ https://docs.python.org/3/
 [w16d_p]: https://drive.google.com/uc?export=download&id=1IMcCyhf0xt2UbMZ3r5EZHC0ROkh5I4qd
 
 [w17d_p]: https://drive.google.com/uc?export=download&id=1hdMP4_tYhjhXgvgDhcYXHJiuBUeTWort
+
+
+[w17d_np]: https://drive.google.com/uc?export=download&id=1ZewHP0adTKkxGSnmDPK9deZvV0wH_Hwq
