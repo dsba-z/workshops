@@ -47,7 +47,8 @@ All public materials and information - https://drive.google.com/drive/folders/1B
 | 16       | 09.11 | Pandas, visuals (221-1)      |                           | [Archive][w16d_p]                             |                        |
 | 17       | 11.11 | Titanic example (221-1)      |                           | [Archive][w17d_p]                             |                        |
 | 17       | 12.11 | Pandas, visuals (222-2)      |                           | [Archive][w17d_np]                            |                        |
-| 17       | 12.11 | **Abstract data structures**     |                           | [Archive][w18d]                                |                        |
+| 18       | 14.11 | Abstract data structures     |                           | [Archive][w18d]                                |                        |
+| 17       | 16.11 | **Graphs**                   |                           | [Archive][w19d_p]                                |                        |
 
 ## Points
 
@@ -148,3 +149,5 @@ https://docs.python.org/3/
 [w17d_np]: https://drive.google.com/uc?export=download&id=1ZewHP0adTKkxGSnmDPK9deZvV0wH_Hwq
 
 [w18d]: https://drive.google.com/uc?export=download&id=1PrabZ-cNm8DQOfcLg3YcihLs9tRV1l2I
+
+[w19d_p]: https://drive.google.com/uc?export=download&id=1Th36LsWQLm2yITI0AwRJRlYX0N_KhjoQ
