@@ -49,7 +49,8 @@ All public materials and information - https://drive.google.com/drive/folders/1B
 | 17       | 12.11 | Pandas, visuals (222-2)      |                           | [Archive][w17d_np]                            |                        |
 | 18       | 14.11 | Abstract data structures     |                           | [Archive][w18d]                               |                        |
 | 19       | 16.11 | Graphs                       |                           | [Archive][w19d_p]                             |                        |
-| 19       | 19.11 | **Graphs**                   |                           | [Archive][w19d_np]                            |                        |
+| 19       | 19.11 | Graphs                       |                           | [Archive][w19d_np]                            |                        |
+| 20       | 21.11 | Requests, APIs, HTML         |                           | [Archive][w20d_p]                             |                        |
 
 ## Points
 
@@ -153,3 +154,5 @@ https://docs.python.org/3/
 
 [w19d_p]: https://drive.google.com/uc?export=download&id=1Th36LsWQLm2yITI0AwRJRlYX0N_KhjoQ
 [w19d_np]: https://drive.google.com/uc?export=download&id=1ZWnC6jguMfvJ3LRuR21liozeAit8z2Qi
+
+[w20d_p]: https://drive.google.com/uc?export=download&id=1eRudFc2ERqNqP9PjM9vS1vs-2HHp7puF
