@@ -51,6 +51,7 @@ All public materials and information - https://drive.google.com/drive/folders/1B
 | 19       | 16.11 | Graphs                       |                           | [Archive][w19d_p]                             |                        |
 | 19       | 19.11 | Graphs                       |                           | [Archive][w19d_np]                            |                        |
 | 20       | 21.11 | Requests, APIs, HTML         |                           | [Archive][w20d_p]                             |                        |
+| 20       | 21.11 | **Pandas, visuals (222-2)**  |                           | [Archive][w17d_np]                            |                        |
 
 ## Points
 
