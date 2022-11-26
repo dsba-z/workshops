@@ -51,8 +51,9 @@ All public materials and information - https://drive.google.com/drive/folders/1B
 | 19       | 16.11 | Graphs                       |                           | [Archive][w19d_p]                             |                        |
 | 19       | 19.11 | Graphs                       |                           | [Archive][w19d_np]                            |                        |
 | 20       | 21.11 | Requests, APIs, HTML         |                           | [Archive][w20d_p]                             |                        |
-| 20       | 21.11 | **Pandas, visuals (222-2)**  |                           | [Archive][w17d_np]                            |                        |
-| 21       | 23.11 | Telegram                     |                           |   https://github.com/dsba-z/dsba2022-tg       |                        |
+| 20       | 21.11 | Pandas, visuals (222-2)      |                           | [Archive][w17d_np]                            |                        |
+| 21       | 23.11 | Telegram                     |                           | [Repo](https://github.com/dsba-z/dsba2022-tg) |                        |
+| 21       | 26.11 | **Project, titanic (222-2)** |                           | [Archive][w21d_np]                            |                        |
 
 ## Points
 
@@ -158,3 +159,5 @@ https://docs.python.org/3/
 [w19d_np]: https://drive.google.com/uc?export=download&id=1ZWnC6jguMfvJ3LRuR21liozeAit8z2Qi
 
 [w20d_p]: https://drive.google.com/uc?export=download&id=1eRudFc2ERqNqP9PjM9vS1vs-2HHp7puF
+
+[w21d_np]: https://drive.google.com/uc?export=download&id=1JmFLSCViJ5LjQEdsPiTywKj7xPYf3S4D
