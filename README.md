@@ -12,6 +12,8 @@ A page with all the workshop materials for the Introduction to Programming cours
 | 4 | https://official.contest.yandex.com/contest/40911 |
 | 5 | https://official.contest.yandex.com/contest/41144 |
 | 6 | https://official.contest.yandex.com/contest/42282 |
+| 7 | https://official.contest.yandex.com/contest/43494 |
+| 8 (bonus) | https://official.contest.yandex.com/contest/43853 |
 
 
 # Workshops
@@ -57,6 +59,7 @@ All public materials and information - https://drive.google.com/drive/folders/1B
 | 22       | 28.11 | Functional programming (221-1) |                         | [Archive][w22d_p]                             |                        |
 | 22       | 28.11 | Functional programming (222-2) |                         | [Archive][w22d_np]                            |                        |
 | 23       | 30.11 | OOP                          |                           | [Archive][w23d_p]                             |                        |
+| 23       | 03.12 | Requests, APIs               |                           | [Archive][w23d_np]                             |                        |
 
 ## Points
 
@@ -169,3 +172,4 @@ https://docs.python.org/3/
 [w22d_np]: https://drive.google.com/uc?export=download&id=1AyfdFs1PM6I4dtvpf1zH7HgMOu_-AmC7
 
 [w23d_p]: https://drive.google.com/uc?export=download&id=1zkD19Y4R2iQUQLSDAcXzkyGBVzhJMUSD
+[w23d_np]: https://drive.google.com/uc?export=download&id=1cD0C5JA--whFHC-COAL3vsAl4Ga0HiyL
