@@ -60,6 +60,8 @@ All public materials and information - https://drive.google.com/drive/folders/1B
 | 22       | 28.11 | Functional programming (222-2) |                         | [Archive][w22d_np]                            |                        |
 | 23       | 30.11 | OOP                          |                           | [Archive][w23d_p]                             |                        |
 | 23       | 03.12 | Requests, APIs               |                           | [Archive][w23d_np]                             |                        |
+| 24       | 05.12 | **Flask**                    |                           | [Archive][w24d_p]                             |                        |
+
 
 ## Points
 
@@ -173,3 +175,5 @@ https://docs.python.org/3/
 
 [w23d_p]: https://drive.google.com/uc?export=download&id=1zkD19Y4R2iQUQLSDAcXzkyGBVzhJMUSD
 [w23d_np]: https://drive.google.com/uc?export=download&id=1cD0C5JA--whFHC-COAL3vsAl4Ga0HiyL
+
+[w24d_p]: https://drive.google.com/file/d/1L4gBaI-XiAAYqqe2wZZ1g6GDR7dqxTDY/view?usp=share_link
